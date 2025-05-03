@@ -1,0 +1,869 @@
+match_id,goalID,score_home,score_away,matchMinute,goalGetterID,team,goalGetterName
+72214,116409,0,1,12,14289,Bayer Leverkusen,Granit Xhaka
+72214,116410,0,2,38,18494,Bayer Leverkusen,Florian Wirtz
+72214,116412,1,2,59,18490,Borussia Mönchengladbach,N. Elvedi
+72214,116413,2,2,85,18551,Borussia Mönchengladbach,T. Kleindienst
+72214,116414,2,3,90,18494,Bayer Leverkusen,Florian Wirtz
+72215,116446,1,0,59,22891,RB Leipzig,A. Nusa
+72217,116433,1,0,6,18327,TSG 1899 Hoffenheim,A. Kramaric
+72217,116442,2,0,37,18327,TSG 1899 Hoffenheim,A. Kramaric
+72217,116448,2,1,63,21361,Holstein Kiel,A. Bernhardsson
+72217,116450,3,1,87,18327,TSG 1899 Hoffenheim,A. Kramaric
+72217,116451,3,2,89,21360,Holstein Kiel,S. Machino
+72218,116432,0,1,2,18339,VfB Stuttgart,Ermedin Demirovic
+72218,116437,1,1,27,19309,SC Freiburg,L. Kübler
+72218,116444,2,1,54,18500,SC Freiburg,Ritsu Doan
+72218,116447,3,1,61,19309,SC Freiburg,L. Kübler
+72219,116434,0,1,12,18477,Werder Bremen,F. Agu
+72219,116435,1,1,16,18554,FC Augsburg,E. Rexhbiecaj
+72219,116441,2,1,35,22921,FC Augsburg,S. Essende
+72219,116445,2,2,58,22922,Werder Bremen,J. Njinmah
+72221,116443,1,0,53,18410,1. FSV Mainz 05,N. Amiri
+72221,116449,1,1,74,18356,1. FC Union Berlin,L. Benes
+72216,116461,1,0,72,19460,Borussia Dortmund,J. Bynoe-Gittens
+72216,116462,2,0,90,19460,Borussia Dortmund,J. Bynoe-Gittens
+72220,116477,0,1,20,18700,FC Bayern München,J. Musiala
+72220,116478,1,1,46,19739,VfL Wolfsburg,L. Majer
+72220,116479,2,1,55,19739,VfL Wolfsburg,L. Majer
+72220,116480,2,2,65,18898,FC Bayern München,H. Kane
+72220,116481,2,3,82,18461,FC Bayern München,Serge Gnabry
+72222,116488,0,1,66,20933,1. FC Heidenheim 1846,P. Wanner
+72222,116489,0,2,82,19780,1. FC Heidenheim 1846,J. Schöppner
+72229,116894,1,0,34,19536,1. FC Union Berlin,Benedict Hollerbach
+72224,116923,1,0,8,20034,VfB Stuttgart,E. Millot
+72224,116925,2,0,15,21337,VfB Stuttgart,J. Leweling
+72224,116932,2,1,42,18410,1. FSV Mainz 05,N. Amiri
+72224,116935,2,2,62,19126,1. FSV Mainz 05,J. Burkardt
+72224,116938,3,2,88,20560,VfB Stuttgart,Florian Rieder
+72224,116939,3,3,94,16862,1. FSV Mainz 05,Leitsch
+72226,116926,1,0,24,22919,Eintracht Frankfurt,Hugo Ekitike
+72226,116931,2,0,33,6467,Eintracht Frankfurt,Larsson
+72226,116933,2,1,54,18327,TSG 1899 Hoffenheim,A. Kramaric
+72226,116934,3,1,56,18444,Eintracht Frankfurt,O. Marmoush
+72230,116936,0,1,67,18551,Borussia Mönchengladbach,T. Kleindienst
+72230,116937,0,2,78,20147,Borussia Mönchengladbach,F. Honorat
+72231,116927,0,1,27,18591,VfL Wolfsburg,M. Arnold
+72231,116928,0,2,30,18785,VfL Wolfsburg,S. Bornauw
+72223,116942,1,0,39,19129,Bayer Leverkusen,J. Frimpong
+72223,116943,2,0,45,19527,Bayer Leverkusen,Grimaldo
+72223,116944,2,1,45,20060,RB Leipzig,K. Kampl
+72223,116945,2,2,57,20224,RB Leipzig,L. Openda
+72223,116946,2,3,80,20224,RB Leipzig,L. Openda
+72227,116965,1,0,8,20933,1. FC Heidenheim 1846,P. Wanner
+72227,116966,2,0,30,21381,1. FC Heidenheim 1846,L. Scienza
+72227,116967,3,0,69,19429,1. FC Heidenheim 1846,A. Beck
+72227,116968,4,0,73,18066,1. FC Heidenheim 1846,Breunig
+72225,116969,1,0,38,18898,FC Bayern München,H. Kane
+72225,116970,2,0,78,514,FC Bayern München,T. Müller
+72233,117898,1,0,11,19156,Borussia Dortmund,D. Malen
+72233,117899,2,0,17,19423,Borussia Dortmund,K. Adeyemi
+72233,117908,2,1,39,18446,1. FC Heidenheim 1846,M. Pieringer
+72233,117909,3,1,41,19423,Borussia Dortmund,K. Adeyemi
+72233,117910,3,2,74,18066,1. FC Heidenheim 1846,Breunig
+72233,117911,4,2,90,18556,Borussia Dortmund,Emre Can
+72234,117923,0,1,17,22941,Bayer Leverkusen,Martin Terrier
+72234,117926,0,2,30,20197,Bayer Leverkusen,V. Boniface
+72234,117928,1,2,37,19762,TSG 1899 Hoffenheim,M. Berisha
+72234,117934,1,3,72,18494,Bayer Leverkusen,Florian Wirtz
+72234,117936,1,4,75,20197,Bayer Leverkusen,V. Boniface
+72235,117929,0,1,45,22943,VfL Bochum,Myron Boadu
+72235,117931,1,1,58,22890,SC Freiburg,J. Adamu
+72235,117933,2,1,61,22890,SC Freiburg,J. Adamu
+72237,117927,0,1,30,18444,Eintracht Frankfurt,O. Marmoush
+72237,117935,1,1,76,18516,VfL Wolfsburg,R. Baku
+72237,117937,1,2,82,18444,Eintracht Frankfurt,O. Marmoush
+72239,117924,0,1,21,20979,VfB Stuttgart,D. Undav
+72239,117925,1,1,27,16907,Borussia Mönchengladbach,Alassane Plea
+72239,117930,1,2,57,18339,VfB Stuttgart,Ermedin Demirovic
+72239,117932,1,3,61,18339,VfB Stuttgart,Ermedin Demirovic
+72240,117962,0,1,1,18700,FC Bayern München,J. Musiala
+72240,117963,0,2,7,18898,FC Bayern München,H. Kane
+72240,117964,0,3,13,20717,FC Bayern München,N. Remberg
+72240,117965,0,4,43,18898,FC Bayern München,H. Kane
+72240,117966,0,5,65,22945,FC Bayern München,Michael Olise
+72240,117967,1,5,82,22946,Holstein Kiel,Armin Gigovic
+72240,117968,1,6,90,18898,FC Bayern München,H. Kane
+72236,117980,1,0,47,15612,FC Augsburg,M. Wolf 
+72236,117981,2,0,67,18976,FC Augsburg,P. Tietz
+72236,117982,2,1,75,18959,FC St. Pauli,C. Boukhalfa
+72236,117983,3,1,90,20544,FC Augsburg,Y. Kabadayi
+72238,117988,0,1,8,18422,Werder Bremen,M. Ducksch
+72238,117989,1,1,27,22948,1. FSV Mainz 05,L. Jae-Sung
+72238,117990,1,2,69,19415,Werder Bremen,D. Köhn
+72246,118633,0,1,13,19611,1. FSV Mainz 05,A. Sieb
+72246,118634,0,2,15,19126,1. FSV Mainz 05,J. Burkardt
+72246,118637,1,2,25,18499,FC Augsburg,K. Schlotterbeck
+72246,118639,1,3,49,19126,1. FSV Mainz 05,J. Burkardt
+72246,118640,2,3,57,22921,FC Augsburg,S. Essende
+72244,118689,0,1,54,18500,SC Freiburg,Ritsu Doan
+72244,118690,0,2,59,18337,SC Freiburg,Vincenzo Grifo
+72244,118693,0,3,65,18337,SC Freiburg,Vincenzo Grifo
+72245,118679,0,1,23,22945,FC Bayern München,Michael Olise
+72245,118687,0,2,33,18700,FC Bayern München,J. Musiala
+72245,118691,0,3,57,18898,FC Bayern München,H. Kane
+72245,118692,0,4,61,22945,FC Bayern München,Michael Olise
+72245,118694,0,5,65,16086,FC Bayern München,Serge Gnabry
+72247,118671,1,0,4,19310,1. FC Union Berlin,Tom Rothe
+72247,118672,2,0,5,18590,1. FC Union Berlin,W. Jeong
+72247,118695,2,1,67,18968,TSG 1899 Hoffenheim,M. Bülter
+72248,118673,0,1,15,19110,Holstein Kiel,B. Pichler
+72248,118674,1,1,23,20969,VfL Bochum,M. Bero
+72248,118688,2,1,35,19319,VfL Bochum,L. Daschner
+72248,118696,2,2,89,21360,Holstein Kiel,S. Machino
+72243,118697,1,0,30,6467,Eintracht Frankfurt,Larsson
+72243,118700,2,0,80,18444,Eintracht Frankfurt,O. Marmoush
+72241,118817,0,1,6,17465,VfL Wolfsburg,Nordi Mukiele
+72241,118818,1,1,15,18494,Bayer Leverkusen,Florian Wirtz
+72241,118819,2,1,32,19623,Bayer Leverkusen,J. Tah
+72241,118820,2,2,37,18785,VfL Wolfsburg,S. Bornauw
+72241,118821,2,3,45,19593,VfL Wolfsburg,M. Svanberg
+72241,118822,3,3,49,19186,Bayer Leverkusen,P. Hincapie
+72241,118823,4,3,90,20197,Bayer Leverkusen,V. Boniface
+72242,118824,1,0,4,16686,VfB Stuttgart,Undav
+72242,118825,2,0,21,18339,VfB Stuttgart,Ermedin Demirovic
+72242,118826,3,0,62,20034,VfB Stuttgart,E. Millot
+72242,118827,3,1,75,19545,Borussia Dortmund,S. Guirassy
+72242,118828,4,1,80,22973,VfB Stuttgart,El Bilal Toure
+72242,118832,5,1,90,16686,VfB Stuttgart,Undav
+72252,118909,0,1,16,20969,VfL Bochum,M. Bero
+72252,118910,0,2,21,3232,VfL Bochum,De Wit
+72252,118911,1,2,44,19545,Borussia Dortmund,S. Guirassy
+72252,118912,2,2,62,18556,Borussia Dortmund,Emre Can
+72252,118913,3,2,75,19545,Borussia Dortmund,S. Guirassy
+72252,118914,4,2,81,19605,Borussia Dortmund,F. Nmecha
+72251,118930,1,0,11,20288,RB Leipzig,B. Sesko
+72251,118933,2,0,15,20288,RB Leipzig,B. Sesko
+72251,118941,3,0,46,20224,RB Leipzig,L. Openda
+72251,118948,4,0,57,22867,RB Leipzig,Xavi Simons
+72254,118935,0,1,12,20050,FC St. Pauli,E. Saad
+72254,118942,0,2,45,20016,FC St. Pauli,O. Afolayan
+72254,118944,0,3,72,20050,FC St. Pauli,E. Saad
+72255,118939,1,0,20,19257,VfL Wolfsburg,J. Wind
+72255,118940,1,1,32,20034,VfB Stuttgart,E. Millot
+72255,118943,2,1,68,22976,VfL Wolfsburg,M. Amoura
+72255,118946,2,2,97,16686,VfB Stuttgart,Undav
+72256,118936,0,1,15,18446,1. FC Heidenheim 1846,M. Pieringer
+72256,118945,0,2,86,19780,1. FC Heidenheim 1846,J. Schöppner
+72257,118947,1,0,96,20148,Borussia Mönchengladbach,T. Cvancara
+72250,118949,0,1,31,18670,Bayer Leverkusen,R. Andrich
+72250,118950,1,1,39,19688,FC Bayern München,Pavlovic
+72258,119022,0,1,25,18444,Eintracht Frankfurt,O. Marmoush
+72258,119023,1,1,30,21360,Holstein Kiel,S. Machino
+72258,119024,1,2,47,18472,Eintracht Frankfurt,I. Matanovic
+72258,119025,2,2,50,21360,Holstein Kiel,S. Machino
+72258,119026,2,3,65,18444,Eintracht Frankfurt,O. Marmoush
+72258,119027,2,4,74,18701,Eintracht Frankfurt,Tuta
+72253,119028,1,0,5,18968,TSG 1899 Hoffenheim,M. Bülter
+72253,119029,2,0,8,18968,TSG 1899 Hoffenheim,M. Bülter
+72253,119030,3,0,12,19427,TSG 1899 Hoffenheim,Adam Hložek
+72253,119031,3,1,21,22977,Werder Bremen,J. Malatini
+72253,119032,3,2,27,19775,Werder Bremen,J. Stage
+72253,119033,3,3,39,19775,Werder Bremen,J. Stage
+72253,119034,3,4,49,19775,Werder Bremen,J. Stage
+72264,119367,1,0,38,18499,FC Augsburg,K. Schlotterbeck
+72264,119370,2,0,65,22999,FC Augsburg,Alexis Claude-Maurice
+72264,119371,2,1,72,17785,Borussia Mönchengladbach,Tim Kleindienst
+72259,119408,1,0,4,20197,Bayer Leverkusen,V. Boniface
+72259,119409,2,0,8,18716,Bayer Leverkusen,J. Hofmann
+72259,119420,2,1,45,23000,Holstein Kiel,M. Geschwill
+72259,119429,2,2,69,18989,Holstein Kiel,J.-F. Arp
+72263,119430,0,1,75,23001,SC Freiburg,Ritsu Doan
+72265,119417,1,0,26,5749,1. FC Union Berlin,Vogt
+72265,119419,2,0,45,21330,1. FC Union Berlin,Y. Vertessen
+72265,119428,2,1,62,19136,Borussia Dortmund,J. Ryerson
+72266,119413,0,1,21,19240,VfL Wolfsburg,Tiago Tomás
+72266,119418,0,2,37,19257,VfL Wolfsburg,J. Wind
+72266,119431,1,2,72,22942,VfL Bochum,M. Boadu
+72266,119432,1,3,88,19257,VfL Wolfsburg,J. Wind
+72267,119433,0,1,5,19126,1. FSV Mainz 05,J. Burkardt
+72267,119434,0,2,16,19611,1. FSV Mainz 05,A. Sieb
+72267,119435,0,3,62,19126,1. FSV Mainz 05,J. Burkardt
+72262,119447,0,0,0,20288,RB Leipzig,B. Sesko
+72262,119451,0,1,59,20224,RB Leipzig,L. Openda
+72261,119452,0,1,15,20947,FC Bayern München,Kim Min-Jae
+72261,119453,1,1,22,18444,Eintracht Frankfurt,O. Marmoush
+72261,119454,2,1,35,22919,Eintracht Frankfurt,Hugo Ekitike
+72261,119455,2,2,38,19198,FC Bayern München,D. Upamecano
+72261,119456,2,3,53,22945,FC Bayern München,Michael Olise
+72261,119461,3,3,94,18444,Eintracht Frankfurt,O. Marmoush
+72260,119464,0,1,45,23003,TSG 1899 Hoffenheim,V. Gendrey
+72260,119468,1,1,99,18339,VfB Stuttgart,Ermedin Demirovic
+72270,119871,1,0,43,18717,Borussia Dortmund,R. Bensebaini
+72270,119874,1,1,78,19425,FC St. Pauli,E. Smith
+72270,119875,2,1,83,19545,Borussia Dortmund,S. Guirassy
+72268,119879,0,1,16,18444,Eintracht Frankfurt,O. Marmoush
+72268,119882,1,1,25,18670,Bayer Leverkusen,R. Andrich
+72268,119891,2,1,72,20197,Bayer Leverkusen,V. Boniface
+72271,119876,1,0,11,18327,TSG 1899 Hoffenheim,A. Kramaric
+72271,119889,2,0,65,18968,TSG 1899 Hoffenheim,M. Bülter
+72271,119893,2,1,76,18222,VfL Bochum,Gamboa
+72271,119895,3,1,94,20156,TSG 1899 Hoffenheim,H. Tabakovic
+72272,119883,1,0,34,18337,SC Freiburg,Vincenzo Grifo
+72272,119885,2,0,37,18680,SC Freiburg,P. Lienhart
+72272,119886,3,0,45,18715,SC Freiburg,C. Günter
+72272,119890,3,1,65,18976,FC Augsburg,P. Tietz
+72274,119880,0,1,20,20256,RB Leipzig,Xavi Simons
+72274,119884,0,2,37,18346,RB Leipzig,Willi Orban
+72275,119877,0,1,13,21381,1. FC Heidenheim 1846,L. Scienza
+72275,119881,1,1,22,19286,Borussia Mönchengladbach,K. Itakura
+72275,119888,2,1,62,18551,Borussia Mönchengladbach,T. Kleindienst
+72275,119892,3,1,75,18551,Borussia Mönchengladbach,T. Kleindienst
+72275,119894,3,2,80,18446,1. FC Heidenheim 1846,M. Pieringer
+72269,119896,1,0,57,18898,FC Bayern München,H. Kane
+72269,119897,2,0,61,18898,FC Bayern München,H. Kane
+72269,119898,3,0,80,18898,FC Bayern München,H. Kane
+72269,119899,4,0,89,15425,FC Bayern München,Kingsley Coman
+72276,119944,0,1,18,23008,1. FC Union Berlin,A. Kemlein
+72276,119951,0,2,89,23009,1. FC Union Berlin,Tom Rothe
+72273,119952,1,0,19,20088,VfL Wolfsburg,Tiago Tomás
+72273,119953,1,1,50,16087,Werder Bremen,Mitchell Weiser
+72273,119954,1,2,51,18477,Werder Bremen,F. Agu
+72273,119955,1,3,67,18422,Werder Bremen,M. Ducksch
+72273,119956,1,4,72,23010,Werder Bremen,Marco Grüll
+72273,119957,2,4,79,23011,VfL Wolfsburg,J. Mæhle
+72282,120882,1,0,55,18672,1. FSV Mainz 05,S. Lainer
+72282,120883,1,1,57,18551,Borussia Mönchengladbach,T. Kleindienst
+72277,120903,1,0,19,20979,VfB Stuttgart,D. Undav
+72277,120907,2,0,61,23132,VfB Stuttgart,E. Touré
+72277,120910,2,1,84,23134,Holstein Kiel,A. Gigovic
+72278,120902,0,1,15,18500,SC Freiburg,Ritsu Doan
+72278,120905,1,1,47,23131,RB Leipzig,Willi Orban
+72278,120908,2,1,58,23133,RB Leipzig,L. Geertruida
+72278,120909,3,1,78,20224,RB Leipzig,L. Openda
+72281,120901,0,1,4,19156,Borussia Dortmund,D. Malen
+72281,120904,1,1,25,23130,FC Augsburg,A. Claude-Maurice
+72281,120906,2,1,52,23130,FC Augsburg,A. Claude-Maurice
+72280,120926,0,1,30,20197,Bayer Leverkusen,V. Boniface
+72280,120927,1,1,74,18422,Werder Bremen,M. Ducksch
+72280,120928,1,2,77,18477,Bayer Leverkusen,F. Agu
+72280,120929,2,2,90,19183,Werder Bremen,R. Schmid
+72284,120943,0,1,16,23135,FC Bayern München,Michael Olise
+72284,120944,0,2,26,18700,FC Bayern München,J. Musiala
+72284,120945,0,3,57,18898,FC Bayern München,H. Kane
+72284,120946,0,4,65,23136,FC Bayern München,Leroy Sané
+72284,120947,0,5,71,18581,FC Bayern München,K. Coman
+72283,120948,0,1,14,19578,Eintracht Frankfurt,Mario Götze
+72283,120949,1,1,66,23137,1. FC Union Berlin,B. Hollerbach
+72287,121088,1,0,15,18898,FC Bayern München,H. Kane
+72287,121096,2,0,43,18581,FC Bayern München,K. Coman
+72287,121099,3,0,51,18898,FC Bayern München,H. Kane
+72289,121087,1,0,9,22919,Eintracht Frankfurt,Hugo Ekitike
+72289,121089,2,0,18,18444,Eintracht Frankfurt,O. Marmoush
+72289,121090,3,0,20,18704,Eintracht Frankfurt,A. Knauff
+72289,121093,4,0,32,20051,Eintracht Frankfurt,N. Brown
+72289,121095,4,1,35,23142,VfL Bochum,D. de Wit
+72289,121098,4,2,51,17664,VfL Bochum,P. Hofmann
+72289,121100,5,2,62,18633,Eintracht Frankfurt,M. Dahoud
+72289,121101,6,2,66,20128,Eintracht Frankfurt,C. Uzun
+72289,121102,7,2,69,22919,Eintracht Frankfurt,Hugo Ekitike
+72290,121091,0,1,20,20016,FC St. Pauli,O. Afolayan
+72290,121104,0,2,93,23143,FC St. Pauli,A. Albers
+72292,121094,0,1,34,18976,FC Augsburg,P. Tietz
+72292,121103,1,1,82,22976,VfL Wolfsburg,M. Amoura
+72294,121092,1,0,28,19777,Holstein Kiel,P. Erras
+72288,121105,0,1,27,20288,RB Leipzig,B. Sesko
+72288,121106,1,1,30,19132,Borussia Dortmund,M. Beier
+72288,121107,2,1,64,19545,Borussia Dortmund,S. Guirassy
+72293,121133,1,0,11,23144,Borussia Mönchengladbach,Alassane Plea
+72293,121134,2,0,12,18551,Borussia Mönchengladbach,T. Kleindienst
+72293,121135,3,0,45,20147,Borussia Mönchengladbach,F. Honorat
+72293,121138,4,0,67,18602,Borussia Mönchengladbach,K. Stöger
+72293,121139,4,1,76,22914,Werder Bremen,K. Topp
+72298,121358,1,0,36,19775,Werder Bremen,J. Stage
+72298,121363,1,1,49,23145,Holstein Kiel,P. Harres
+72298,121367,2,1,90,23147,Werder Bremen,O. Burke
+72300,121359,1,0,37,16893,1. FSV Mainz 05,Lee Jae-sung
+72300,121361,1,1,40,19545,Borussia Dortmund,S. Guirassy
+72300,121362,2,1,48,19126,1. FSV Mainz 05,J. Burkardt
+72300,121364,3,1,54,19469,1. FSV Mainz 05,P. Nebel
+72302,121354,0,1,19,18331,Bayer Leverkusen,Patrik Schick
+72302,121366,1,1,89,23146,VfL Bochum,K. Miyoshi
+72303,121355,0,1,22,20094,FC Bayern München,Jamal Musiala
+72295,121383,0,1,45,22919,Eintracht Frankfurt,Hugo Ekitike
+72295,121387,0,2,55,20051,Eintracht Frankfurt,N. Brown
+72295,121388,0,3,62,18444,Eintracht Frankfurt,O. Marmoush
+72295,121389,1,3,86,18488,VfB Stuttgart,J. Vagnoman
+72295,121390,2,3,90,22473,VfB Stuttgart,N. Woltemade
+72297,121392,0,1,3,18377,VfL Wolfsburg,Y. Gerhardt
+72297,121393,0,2,42,23148,VfL Wolfsburg,B. Dárdai
+72297,121394,1,2,64,18446,1. FC Heidenheim 1846,M. Pieringer
+72297,121395,1,3,90,20088,VfL Wolfsburg,Tiago Tomás
+72306,121556,1,0,63,18898,FC Bayern München,H. Kane
+72306,121557,2,0,90,18898,FC Bayern München,H. Kane
+72306,121558,3,0,90,18898,FC Bayern München,H. Kane
+72304,121561,0,1,10,19190,1. FC Heidenheim 1846,N. Dorsch
+72304,121565,0,2,21,18604,1. FC Heidenheim 1846,M. Honsak
+72304,121566,1,2,30,19318,Bayer Leverkusen,E. Palacios
+72304,121567,2,2,32,18331,Bayer Leverkusen,Patrik Schick
+72304,121570,3,2,52,18331,Bayer Leverkusen,Patrik Schick
+72304,121599,4,2,71,18331,Bayer Leverkusen,Patrik Schick
+72304,121603,5,2,82,7275,Bayer Leverkusen,Granit Xhaka
+72305,121571,1,0,53,18304,VfB Stuttgart,C. Führich
+72305,121601,2,0,78,23150,VfB Stuttgart,J. Diehl
+72307,121560,1,0,7,19132,Borussia Dortmund,M. Beier
+72307,121568,2,0,40,19605,Borussia Dortmund,F. Nmecha
+72307,121572,3,0,66,18492,Borussia Dortmund,J. Brandt
+72307,121600,4,0,77,22952,Borussia Dortmund,J. Bynoe-Gittens
+72309,121562,0,1,15,18346,RB Leipzig,Willi Orban
+72309,121563,1,1,17,19427,TSG 1899 Hoffenheim,Adam Hložek
+72309,121564,1,2,19,22891,RB Leipzig,A. Nusa
+72309,121569,2,2,50,23149,TSG 1899 Hoffenheim,T. Bischof
+72309,121594,2,3,67,19779,RB Leipzig,S. Nsoki
+72309,121602,3,3,82,23151,TSG 1899 Hoffenheim,Adam Hložek
+72309,121604,4,3,87,19027,TSG 1899 Hoffenheim,J. Bruun Larsen
+72310,121586,1,0,71,18516,VfL Wolfsburg,R. Baku
+72308,121607,1,0,44,14306,Eintracht Frankfurt,Mario Götze
+72312,121625,0,1,11,18410,1. FSV Mainz 05,N. Amiri
+72312,121626,0,2,37,19126,1. FSV Mainz 05,J. Burkardt
+72312,121627,0,3,53,18465,1. FSV Mainz 05,J.-S. Lee
+72311,121628,1,0,13,23144,Borussia Mönchengladbach,Alassane Plea
+72311,121635,2,0,44,18551,Borussia Mönchengladbach,T. Kleindienst
+72321,121880,1,0,25,19584,FC St. Pauli,M. Saliakas
+72321,121888,2,0,56,23156,FC St. Pauli,M. Guilavogui
+72321,121889,3,0,85,16022,FC St. Pauli,J. Eggestein
+72321,121890,3,1,91,23145,Holstein Kiel,P. Harres
+72313,121943,0,1,4,22976,VfL Wolfsburg,M. Amoura
+72313,121944,0,2,5,19240,VfL Wolfsburg,Tiago Tomás
+72313,121951,0,3,16,22976,VfL Wolfsburg,M. Amoura
+72313,121959,0,4,64,23158,VfL Wolfsburg,K. Koulierakis
+72313,121962,1,4,82,23131,RB Leipzig,Willi Orban
+72313,121964,1,5,91,18441,VfL Wolfsburg,K. Behrens
+72316,121946,1,0,6,22922,Werder Bremen,J. Njinmah
+72316,121953,1,1,20,18339,VfB Stuttgart,Ermedin Demirovic
+72316,121961,2,1,77,19775,Werder Bremen,J. Stage
+72316,121963,2,2,85,23159,VfB Stuttgart,Ermedin Demirovic
+72317,121954,1,0,41,14393,SC Freiburg,Höler
+72317,121956,2,0,49,23157,SC Freiburg,Ritsu Doan
+72317,121957,2,1,61,18551,Borussia Mönchengladbach,T. Kleindienst
+72317,121958,3,1,62,18643,SC Freiburg,L. Höler
+72318,121955,1,0,38,18976,FC Augsburg,P. Tietz
+72320,121945,0,1,2,19129,Bayer Leverkusen,J. Frimpong
+72320,121952,1,1,29,18590,1. FC Union Berlin,W. Jeong
+72320,121960,1,2,71,18331,Bayer Leverkusen,Patrik Schick
+72314,121967,1,0,27,22952,Borussia Dortmund,J. Bynoe-Gittens
+72314,121968,1,1,85,18700,FC Bayern München,J. Musiala
+72319,121979,1,0,4,19126,1. FSV Mainz 05,J. Burkardt
+72319,121980,2,0,24,19126,1. FSV Mainz 05,J. Burkardt
+72315,121983,0,1,22,18444,Eintracht Frankfurt,O. Marmoush
+72315,121985,0,2,49,22918,Eintracht Frankfurt,F. Chaïbi
+72315,121986,0,3,58,18444,Eintracht Frankfurt,O. Marmoush
+72315,121987,0,4,94,22919,Eintracht Frankfurt,Hugo Ekitike
+72323,122033,0,1,37,19609,1. FC Union Berlin,D. Doekhi
+72323,122038,0,2,48,17688,1. FC Union Berlin,Robert Skov
+72323,122039,1,2,51,22473,VfB Stuttgart,N. Woltemade
+72323,122040,2,2,59,22473,VfB Stuttgart,N. Woltemade
+72323,122041,3,2,69,17426,VfB Stuttgart,Atakan Karazor
+72322,122056,1,0,6,18298,Bayer Leverkusen,Florian Wirtz
+72322,122058,2,0,21,19623,Bayer Leverkusen,J. Tah
+72322,122070,2,1,84,15001,FC St. Pauli,Guilavogui
+72324,122057,1,0,18,23167,FC Bayern München,Dayot Upamecano
+72324,122061,1,1,50,17950,1. FC Heidenheim 1846,Mathias Honsak
+72324,122062,2,1,56,20094,FC Bayern München,Jamal Musiala
+72324,122069,3,1,84,11373,FC Bayern München,Leon Goretzka
+72324,122071,3,2,86,19190,1. FC Heidenheim 1846,N. Dorsch
+72324,122072,4,2,91,20094,FC Bayern München,Jamal Musiala
+72325,122064,1,0,55,23168,Eintracht Frankfurt,Hugo Ekitiké
+72325,122065,1,1,61,20075,FC Augsburg,Phillip Tietz
+72325,122067,1,2,71,22921,FC Augsburg,S. Essende
+72325,122068,2,2,74,20128,Eintracht Frankfurt,C. Uzun
+72329,122063,0,1,56,19775,Werder Bremen,J. Stage
+72330,122059,0,1,27,23164,RB Leipzig,B. Sesko
+72330,122066,0,2,69,19205,RB Leipzig,André Silva
+72328,122083,0,1,65,22952,Borussia Dortmund,J. Bynoe-Gittens
+72328,122084,1,1,71,18602,Borussia Mönchengladbach,K. Stöger
+72327,122101,0,1,12,19469,1. FSV Mainz 05,P. Nebel
+72327,122102,1,1,20,22976,VfL Wolfsburg,M. Amoura
+72327,122103,1,2,39,22968,1. FSV Mainz 05,Jonathan Burkardt
+72327,122105,2,2,58,20086,VfL Wolfsburg,A. Hanche-Olsen
+72327,122106,2,3,66,19469,1. FSV Mainz 05,P. Nebel
+72327,122107,3,3,84,19257,VfL Wolfsburg,J. Wind
+72327,122108,4,3,94,19257,VfL Wolfsburg,J. Wind
+72326,122109,0,1,68,18712,SC Freiburg,M. Ginter
+72326,122110,1,1,73,23149,TSG 1899 Hoffenheim,T. Bischof
+72334,122364,1,0,42,19309,SC Freiburg,L. Kübler
+72334,122365,2,0,50,19309,SC Freiburg,L. Kübler
+72334,122366,3,0,61,14578,SC Freiburg,Michael Gregoritsch
+72334,122367,3,1,75,19257,VfL Wolfsburg,J. Wind
+72334,122368,3,2,83,19593,VfL Wolfsburg,M. Svanberg
+72335,122453,0,1,14,22940,Bayer Leverkusen,M. Terrier
+72335,122458,0,2,40,18494,Bayer Leverkusen,Florian Wirtz
+72336,122457,1,0,41,18465,1. FSV Mainz 05,J.-S. Lee
+72336,122466,2,0,60,16893,1. FSV Mainz 05,Lee Jae-sung
+72336,122467,2,1,87,17087,FC Bayern München,Leroy Sané
+72337,122437,1,0,1,18551,Borussia Mönchengladbach,T. Kleindienst
+72337,122455,2,0,26,18333,Borussia Mönchengladbach,R. Hack
+72337,122456,2,1,30,23134,Holstein Kiel,A. Gigovic
+72337,122459,3,1,43,18574,Borussia Mönchengladbach,Alassane Plea
+72337,122465,4,1,79,18574,Borussia Mönchengladbach,Alassane Plea
+72338,122454,0,1,23,23213,VfL Bochum,I. Sissoko
+72338,122460,0,2,33,19536,VfL Bochum,Benedict Hollerbach
+72339,122472,0,1,24,19415,Werder Bremen,D. Köhn
+72339,122473,0,2,56,11228,Werder Bremen,Marvin Ducksch
+72333,122491,0,1,20,17005,VfB Stuttgart,Maximilian Mittelstädt
+72333,122492,1,1,46,20933,1. FC Heidenheim 1846,P. Wanner
+72333,122493,1,2,47,20034,VfB Stuttgart,E. Millot
+72333,122507,1,3,85,22473,VfB Stuttgart,N. Woltemade
+72332,122508,1,0,46,17928,Borussia Dortmund,Giovanni Reyna
+72332,122509,1,1,91,19027,TSG 1899 Hoffenheim,J. Bruun Larsen
+72331,122512,1,0,19,20288,RB Leipzig,B. Sesko
+72331,122513,1,1,40,20051,Eintracht Frankfurt,N. Brown
+72331,122514,2,1,52,20224,RB Leipzig,L. Openda
+72342,122530,1,0,1,18700,FC Bayern München,J. Musiala
+72342,122531,1,1,2,20288,RB Leipzig,B. Sesko
+72342,122532,2,1,25,20090,FC Bayern München,Konrad Laimer
+72342,122533,3,1,36,15977,FC Bayern München,Joshua Kimmich
+72342,122535,4,1,75,18433,FC Bayern München,Leroy Sané
+72342,122536,5,1,78,17769,FC Bayern München,Alphonso Davies
+72341,122544,0,1,21,16022,FC St. Pauli,J. Eggestein
+72343,122542,0,1,0,0,1. FSV Mainz 05,
+72343,122543,0,2,0,0,1. FSV Mainz 05,
+72343,122555,0,3,0,0,1. FSV Mainz 05,
+72343,122562,1,3,0,0,Eintracht Frankfurt,
+72344,122556,1,1,0,0,TSG 1899 Hoffenheim,
+72344,122557,1,2,0,0,Borussia Mönchengladbach,
+72344,122545,0,1,23,20037,Borussia Mönchengladbach,P. Sander
+72345,122546,1,0,0,0,Werder Bremen,
+72345,122547,2,0,0,0,Werder Bremen,
+72345,122548,2,1,0,0,1. FC Union Berlin,
+72345,122554,3,1,0,0,Werder Bremen,
+72345,122564,4,1,0,0,Werder Bremen,
+72348,122549,0,1,0,0,FC Augsburg,
+72348,122550,1,1,0,0,Holstein Kiel,
+72348,122551,2,1,0,0,Holstein Kiel,
+72348,122552,3,1,0,0,Holstein Kiel,
+72348,122553,4,1,0,0,Holstein Kiel,
+72348,122563,5,1,0,0,Holstein Kiel,
+72340,122578,1,0,46,18331,Bayer Leverkusen,Patrik Schick
+72340,122579,2,0,51,18298,Bayer Leverkusen,Florian Wirtz
+72340,122580,2,1,55,16133,SC Freiburg,Vincenzo Grifo
+72340,122581,3,1,67,22743,Bayer Leverkusen,Patrik Schick
+72340,122582,4,1,74,22743,Bayer Leverkusen,Patrik Schick
+72340,122583,5,1,77,22743,Bayer Leverkusen,Patrik Schick
+72347,122587,1,0,6,19772,VfL Bochum,M. Broschinski
+72347,122588,2,0,38,20969,VfL Bochum,M. Bero
+72346,122591,0,1,25,19156,Borussia Dortmund,D. Malen
+72346,122595,0,2,28,19132,Borussia Dortmund,M. Beier
+72346,122596,0,3,30,18492,Borussia Dortmund,J. Brandt
+72346,122598,1,3,58,23163,VfL Wolfsburg,D. Vavro
+72350,122607,0,1,1,23214,Bayer Leverkusen,Nathan Tella
+72350,122609,0,2,8,22743,Bayer Leverkusen,Patrik Schick
+72350,122610,1,2,12,22952,Borussia Dortmund,J. Bynoe-Gittens
+72350,122611,1,3,19,22743,Bayer Leverkusen,Patrik Schick
+72350,122612,2,3,79,19545,Borussia Dortmund,S. Guirassy
+72351,122617,0,0,0,0,VfL Wolfsburg,
+72351,122618,0,1,29,22976,VfL Wolfsburg,M. Amoura
+72352,122613,1,0,17,20512,1. FC Heidenheim 1846,F. Krätzig
+72352,122624,2,0,83,19429,1. FC Heidenheim 1846,A. Beck
+72353,122615,1,0,23,20717,SC Freiburg,N. Remberg
+72353,122620,2,0,38,18715,SC Freiburg,C. Günter
+72353,122621,3,0,74,18337,SC Freiburg,Vincenzo Grifo
+72353,122623,3,1,85,23145,Holstein Kiel,P. Harres
+72353,122625,3,2,90,23145,Holstein Kiel,P. Harres
+72355,122616,1,0,24,19126,1. FSV Mainz 05,J. Burkardt
+72355,122622,2,0,69,19126,1. FSV Mainz 05,J. Burkardt
+72357,122619,0,1,32,18444,Eintracht Frankfurt,O. Marmoush
+72356,122626,0,1,68,18898,FC Bayern München,H. Kane
+72349,122627,1,0,23,20256,RB Leipzig,Xavi Simons
+72349,122628,1,1,26,19055,Werder Bremen,M. Weiser
+72349,122629,2,1,35,20256,RB Leipzig,Xavi Simons
+72349,122630,3,1,47,20288,RB Leipzig,B. Sesko
+72349,122631,4,1,90,17892,RB Leipzig,Christoph Baumgartner
+72349,122632,4,2,93,16124,Werder Bremen,Oliver Burke
+72354,122633,0,1,65,16686,VfB Stuttgart,Undav
+72366,122634,1,0,27,21360,Holstein Kiel,S. Machino
+72366,122635,2,0,32,23145,Holstein Kiel,P. Harres
+72366,122636,3,0,49,21361,Holstein Kiel,A. Bernhardsson
+72366,122637,3,1,71,18721,Borussia Dortmund,Giovanni Reyna
+72366,122638,3,2,77,22952,Borussia Dortmund,J. Bynoe-Gittens
+72366,122640,4,2,98,18989,Holstein Kiel,J.-F. Arp
+72358,122643,1,0,48,19527,Bayer Leverkusen,Grimaldo
+72361,122641,1,0,0,0,Eintracht Frankfurt,
+72361,122642,1,1,0,0,SC Freiburg,
+72361,122645,2,1,0,0,Eintracht Frankfurt,
+72361,122646,3,1,0,0,Eintracht Frankfurt,
+72361,122648,4,1,0,0,Eintracht Frankfurt,
+72363,122644,2,0,0,0,VfL Wolfsburg,
+72363,122647,3,0,0,0,VfL Wolfsburg,
+72363,122649,4,0,0,0,VfL Wolfsburg,
+72363,122650,5,0,0,0,VfL Wolfsburg,
+72363,122651,5,1,0,0,Borussia Mönchengladbach,
+72363,122639,1,0,3,19257,Borussia Mönchengladbach,J. Wind
+72365,122652,1,0,67,16886,VfL Bochum,Philipp Hofmann
+72359,122656,0,1,10,23164,RB Leipzig,B. Sesko
+72359,122662,1,1,50,19027,VfB Stuttgart,J. Bruun Larsen
+72359,122665,2,1,60,22473,VfB Stuttgart,N. Woltemade
+72360,122654,1,0,7,17087,FC Bayern München,Leroy Sané
+72360,122657,2,0,12,20097,FC Bayern München,Raphael Guerreiro
+72360,122658,3,0,26,18898,FC Bayern München,H. Kane
+72360,122661,4,0,49,17087,FC Bayern München,Leroy Sané
+72360,122666,5,0,66,16086,FC Bayern München,Serge Gnabry
+72362,122653,1,0,1,20688,Werder Bremen,Marco Grüll
+72362,122660,1,1,30,19780,1. FC Heidenheim 1846,J. Schöppner
+72362,122663,2,1,56,11228,Werder Bremen,Marvin Ducksch
+72362,122664,2,2,61,19521,1. FC Heidenheim 1846,Luca Kerber
+72362,122667,3,2,79,20688,Werder Bremen,Marco Grüll
+72362,122668,3,3,95,21381,1. FC Heidenheim 1846,L. Scienza
+72364,122655,0,1,9,22999,FC Augsburg,Alexis Claude-Maurice
+72364,122659,0,2,30,22999,FC Augsburg,Alexis Claude-Maurice
+72370,122731,1,0,18,23168,Eintracht Frankfurt,Hugo Ekitiké
+72370,122732,2,0,92,23215,Eintracht Frankfurt,Oscar Höjlund
+72368,122736,1,0,2,23216,VfB Stuttgart,Anthony Rouault
+72368,122739,2,0,17,23217,VfB Stuttgart,Ermedin Demirovic
+72368,122755,3,0,50,22473,VfB Stuttgart,N. Woltemade
+72368,122763,4,0,80,16686,VfB Stuttgart,Undav
+72369,122740,1,0,20,11373,FC Bayern München,Leon Goretzka
+72369,122743,1,1,24,22976,VfL Wolfsburg,M. Amoura
+72369,122752,2,1,39,22945,FC Bayern München,Michael Olise
+72369,122761,3,1,62,11373,FC Bayern München,Leon Goretzka
+72369,122765,3,2,88,22976,VfL Wolfsburg,M. Amoura
+72371,122742,0,1,25,16947,FC St. Pauli,Johannes Eggestein
+72371,122766,0,2,92,23156,FC St. Pauli,M. Guilavogui
+72374,122737,0,1,10,23131,RB Leipzig,Willi Orban
+72374,122738,0,2,13,22891,RB Leipzig,A. Nusa
+72374,122741,0,3,22,17892,RB Leipzig,Christoph Baumgartner
+72374,122756,1,3,48,22943,VfL Bochum,Myron Boadu
+72374,122758,2,3,57,22943,VfL Bochum,Myron Boadu
+72374,122759,3,3,61,22943,VfL Bochum,Myron Boadu
+72375,122744,0,1,26,23151,TSG 1899 Hoffenheim,Adam Hložek
+72375,122753,0,2,46,23218,TSG 1899 Hoffenheim,Andrej Kramaric
+72375,122757,0,3,56,23151,TSG 1899 Hoffenheim,Adam Hložek
+72375,122762,1,3,84,23219,Holstein Kiel,Andu Kelati
+72367,122767,1,0,32,18298,Bayer Leverkusen,Florian Wirtz
+72367,122768,2,0,62,18298,Bayer Leverkusen,Florian Wirtz
+72367,122769,3,0,74,22743,Bayer Leverkusen,Patrik Schick
+72367,122770,3,1,91,17785,Borussia Mönchengladbach,Tim Kleindienst
+72373,122804,1,0,2,23137,1. FC Union Berlin,B. Hollerbach
+72373,122805,1,1,4,18410,1. FSV Mainz 05,N. Amiri
+72373,122806,2,1,24,17688,1. FC Union Berlin,Robert Skov
+72372,122812,0,1,5,22921,FC Augsburg,S. Essende
+72372,122814,0,2,46,22921,FC Augsburg,S. Essende
+72381,123034,0,1,13,23226,Holstein Kiel,D. Zec
+72381,123035,1,1,50,19035,VfL Wolfsburg,P. Wimmer
+72381,123036,2,1,53,19257,VfL Wolfsburg,J. Wind
+72381,123037,2,2,80,8545,Holstein Kiel,Steven Skrzybski
+72376,123039,0,1,19,22743,Bayer Leverkusen,Patrik Schick
+72376,123043,0,2,36,13099,Bayer Leverkusen,Aleix Garcia
+72376,123044,1,2,41,18358,RB Leipzig,D. Raum
+72376,123067,2,2,85,18414,RB Leipzig,E. Tapsoba
+72377,123041,1,0,28,19545,Borussia Dortmund,S. Guirassy
+72377,123046,2,0,51,23228,Borussia Dortmund,Marco Friedl
+72377,123048,2,1,65,16106,Werder Bremen,Leonardo Bittencourt
+72377,123050,2,2,72,11228,Werder Bremen,Marvin Ducksch
+72379,123038,0,1,15,18898,FC Bayern München,H. Kane
+72379,123047,0,2,54,23229,FC Bayern München,Minjae Kim
+72379,123049,1,2,68,18712,SC Freiburg,M. Ginter
+72380,123045,1,0,46,23227,FC Augsburg,Chrislain Matsima
+72380,123051,1,1,76,17451,1. FC Heidenheim 1846,Patrick Mainka
+72380,123065,2,1,93,22969,FC Augsburg,Keven Schlotterbeck
+72382,123042,1,0,29,19847,1. FSV Mainz 05,N. Weiper
+72382,123066,2,0,86,19551,1. FSV Mainz 05,A. Caci
+72383,123087,1,0,34,20828,Borussia Mönchengladbach,R. Reitz
+72383,123088,2,0,55,17829,Borussia Mönchengladbach,Robin Hack
+72383,123089,3,0,86,17785,Borussia Mönchengladbach,Tim Kleindienst
+72378,123095,0,1,26,23168,Eintracht Frankfurt,Hugo Ekitiké
+72378,123097,1,1,65,23232,TSG 1899 Hoffenheim,Gift Orban
+72378,123101,1,2,71,23168,Eintracht Frankfurt,Hugo Ekitiké
+72378,123119,2,2,95,23151,TSG 1899 Hoffenheim,Adam Hložek
+72384,123120,1,0,31,23156,FC St. Pauli,M. Guilavogui
+72384,123121,2,0,51,23156,FC St. Pauli,M. Guilavogui
+72384,123122,3,0,93,20989,FC St. Pauli,D. Sinani
+72390,123342,1,0,14,16106,Werder Bremen,Leonardo Bittencourt
+72386,123350,0,1,25,20038,Borussia Mönchengladbach,N. Ngoumou
+72386,123355,1,1,49,19604,VfB Stuttgart,J. Elvedi
+72386,123370,1,2,83,17785,Borussia Mönchengladbach,Tim Kleindienst
+72387,123349,1,0,19,20094,FC Bayern München,Jamal Musiala
+72387,123354,3,0,46,18898,FC Bayern München,H. Kane
+72387,123353,2,0,48,18898,Holstein Kiel,H. Kane
+72387,123356,4,0,54,16086,FC Bayern München,Serge Gnabry
+72387,123358,4,1,62,17919,Holstein Kiel,Finn Porath
+72387,123372,4,2,91,8545,Holstein Kiel,Steven Skrzybski
+72387,123373,4,3,93,8545,Holstein Kiel,Steven Skrzybski
+72389,123351,0,1,33,19545,Borussia Dortmund,S. Guirassy
+72389,123357,0,2,63,19132,Borussia Dortmund,M. Beier
+72389,123359,1,2,64,17950,1. FC Heidenheim 1846,Mathias Honsak
+72392,123352,0,1,34,23241,SC Freiburg,Kiliann Sildillia
+72393,123348,1,0,17,23240,FC St. Pauli,N. Banks
+72393,123371,1,1,83,23242,FC Augsburg,Mert Kömür
+72388,123406,0,1,50,18701,VfL Wolfsburg,Tuta
+72388,123407,1,1,81,20128,Eintracht Frankfurt,C. Uzun
+72385,123408,1,0,15,20197,Bayer Leverkusen,V. Boniface
+72385,123409,2,0,19,19129,Bayer Leverkusen,J. Frimpong
+72385,123410,3,0,51,22743,Bayer Leverkusen,Patrik Schick
+72385,123411,3,1,63,23232,TSG 1899 Hoffenheim,Gift Orban
+72394,123438,1,0,56,18898,FC Bayern München,H. Kane
+72394,123439,2,0,82,17087,FC Bayern München,Leroy Sané
+72394,123440,3,0,97,18898,FC Bayern München,H. Kane
+72396,123458,0,1,50,19289,VfB Stuttgart,W. Anton
+72396,123473,0,2,62,20218,VfB Stuttgart,Jeff Chabot
+72396,123476,1,2,81,15031,Borussia Dortmund,Julian Brandt
+72397,123441,0,1,24,23137,1. FC Union Berlin,B. Hollerbach
+72397,123472,0,2,61,20496,1. FC Union Berlin,Marin Ljubicic
+72397,123475,0,3,73,23246,1. FC Union Berlin,A. Ilic
+72397,123477,0,4,87,23137,1. FC Union Berlin,B. Hollerbach
+72398,123442,1,0,30,18337,SC Freiburg,Vincenzo Grifo
+72401,123478,1,0,26,17785,Borussia Mönchengladbach,Tim Kleindienst
+72401,123479,1,1,31,22919,Eintracht Frankfurt,Hugo Ekitike
+72402,123490,1,0,3,8545,Holstein Kiel,Steven Skrzybski
+72402,123491,1,1,37,22943,VfL Bochum,Myron Boadu
+72402,123492,1,2,39,22943,VfL Bochum,Myron Boadu
+72402,123493,2,2,50,23226,Holstein Kiel,D. Zec
+72395,123496,1,0,16,23164,RB Leipzig,B. Sesko
+72395,123497,2,0,35,22867,RB Leipzig,Xavi Simons
+72404,123610,1,0,72,22473,VfB Stuttgart,N. Woltemade
+72404,123611,1,1,77,19240,VfL Wolfsburg,Tiago Tomás
+72404,123613,1,2,87,22976,VfL Wolfsburg,M. Amoura
+72409,123593,0,1,11,19835,Borussia Mönchengladbach,Lukas Ullrich
+72409,123603,0,2,26,18551,Borussia Mönchengladbach,T. Kleindienst
+72409,123612,1,2,63,23246,1. FC Union Berlin,A. Ilic
+72410,123605,1,0,33,23252,VfL Bochum,G. Masouras
+72410,123606,2,0,35,23252,VfL Bochum,G. Masouras
+72411,123614,0,1,89,23239,SC Freiburg,Philipp Treu
+72407,123628,1,0,7,19779,Werder Bremen,S. Nsoki
+72407,123629,1,1,28,18645,TSG 1899 Hoffenheim,A. Stach
+72407,123630,1,2,44,23149,TSG 1899 Hoffenheim,T. Bischof
+72407,123631,1,3,63,23232,TSG 1899 Hoffenheim,Gift Orban
+72405,123632,1,0,18,23254,Eintracht Frankfurt,Hugo Larsson
+72405,123633,2,0,37,18701,Eintracht Frankfurt,Tuta
+72405,123634,3,0,60,20128,Eintracht Frankfurt,C. Uzun
+72405,123635,3,1,73,17919,Holstein Kiel,Finn Porath
+72406,123637,0,1,29,22968,1. FSV Mainz 05,Jonathan Burkardt
+72406,123638,0,2,49,19847,1. FSV Mainz 05,N. Weiper
+72416,123747,1,0,15,23241,SC Freiburg,Kiliann Sildillia
+72416,123750,2,0,33,18337,SC Freiburg,Vincenzo Grifo
+72416,123751,3,0,57,18337,SC Freiburg,Vincenzo Grifo
+72416,123752,4,0,76,18500,SC Freiburg,Ritsu Doan
+72416,123753,5,0,92,18500,SC Freiburg,Ritsu Doan
+72417,123774,1,1,0,0,VfL Wolfsburg,
+72417,123770,0,1,50,19504,VfL Bochum,E. Masovic
+72418,123776,2,0,0,19469,1. FSV Mainz 05,P. Nebel
+72418,123771,1,0,67,18465,FC St. Pauli,J.-S. Lee
+72419,123772,0,1,0,23130,FC Augsburg,A. Claude-Maurice
+72419,123773,0,2,0,23130,FC Augsburg,A. Claude-Maurice
+72419,123775,0,3,0,23130,FC Augsburg,A. Claude-Maurice
+72420,123766,0,1,9,22743,Bayer Leverkusen,Patrik Schick
+72420,123769,0,2,45,19155,Bayer Leverkusen,A. Adli
+72414,123787,1,0,25,20206,Borussia Dortmund,D. Leite
+72414,123788,2,0,40,19545,Borussia Dortmund,S. Guirassy
+72414,123789,3,0,75,19545,Borussia Dortmund,S. Guirassy
+72414,123790,4,0,80,19545,Borussia Dortmund,S. Guirassy
+72414,123791,5,0,83,19545,Borussia Dortmund,S. Guirassy
+72414,123792,6,0,89,19132,Borussia Dortmund,M. Beier
+72413,123804,0,1,7,17950,1. FC Heidenheim 1846,Mathias Honsak
+72413,123807,0,2,13,20077,1. FC Heidenheim 1846,Marvin Pieringer
+72413,123808,1,2,47,20224,RB Leipzig,L. Openda
+72413,123809,2,2,64,23164,RB Leipzig,B. Sesko
+72412,123812,1,0,48,22945,FC Bayern München,Michael Olise
+72412,123813,2,0,61,19227,FC Bayern München,H. Ito
+72412,123814,3,0,83,20094,FC Bayern München,Jamal Musiala
+72412,123815,4,0,92,16086,FC Bayern München,Serge Gnabry
+72415,123816,0,1,9,22473,VfB Stuttgart,N. Woltemade
+72415,123817,1,1,74,23232,TSG 1899 Hoffenheim,Gift Orban
+72421,123837,1,0,34,20022,VfB Stuttgart,A. Stiller
+72421,123838,1,1,45,22945,FC Bayern München,Michael Olise
+72421,123841,1,2,64,11373,FC Bayern München,Leon Goretzka
+72421,123842,1,3,90,15425,FC Bayern München,Kingsley Coman
+72422,123863,1,0,1,20256,RB Leipzig,Xavi Simons
+72422,123871,1,1,52,16216,1. FSV Mainz 05,Nadiem Amiri
+72422,123874,1,2,59,19126,1. FSV Mainz 05,J. Burkardt
+72424,123864,0,1,8,18333,Borussia Mönchengladbach,R. Hack
+72424,123868,0,2,18,20038,Borussia Mönchengladbach,N. Ngoumou
+72424,123873,0,3,59,18333,Borussia Mönchengladbach,R. Hack
+72425,123865,0,1,6,19035,VfL Wolfsburg,P. Wimmer
+72425,123870,0,2,48,19035,VfL Wolfsburg,P. Wimmer
+72425,123877,1,2,90,16087,Werder Bremen,Mitchell Weiser
+72428,123876,0,1,72,23149,TSG 1899 Hoffenheim,T. Bischof
+72429,123869,0,1,51,19545,Borussia Dortmund,S. Guirassy
+72429,123872,0,2,58,19423,Borussia Dortmund,K. Adeyemi
+72423,123881,0,1,26,23214,Bayer Leverkusen,Nathan Tella
+72423,123882,0,2,29,18474,Bayer Leverkusen,N. Mukiele
+72423,123883,0,3,33,22743,Bayer Leverkusen,Patrik Schick
+72423,123884,1,3,37,23168,Eintracht Frankfurt,Hugo Ekitiké
+72423,123885,1,4,62,20419,Bayer Leverkusen,Aleix Garcia
+72427,123901,0,1,43,23264,Holstein Kiel,Armin Gigovic
+72437,123993,0,1,39,19469,1. FSV Mainz 05,P. Nebel
+72437,123994,0,2,49,18674,1. FSV Mainz 05,D. Kohr
+72437,123995,1,2,73,18672,Borussia Mönchengladbach,S. Lainer
+72437,123996,1,3,77,16216,1. FSV Mainz 05,Nadiem Amiri
+72430,124006,0,1,8,22770,Werder Bremen,Romano Schmid
+72430,124020,0,2,94,19557,Werder Bremen,Justin Njinmah
+72431,124007,1,0,14,20097,FC Bayern München,Raphael Guerreiro
+72431,124010,2,0,28,20097,FC Bayern München,Raphael Guerreiro
+72431,124011,2,1,31,23292,VfL Bochum,Jakov Medic
+72431,124015,2,2,51,23213,VfL Bochum,I. Sissoko
+72431,124018,2,3,71,20969,VfL Bochum,M. Bero
+72432,124009,0,1,23,16056,FC Augsburg,Jeffrey Gouweleeuw
+72436,124013,0,1,38,23293,FC St. Pauli,Siebe Van der Heyden
+72436,124019,1,1,70,22976,VfL Wolfsburg,M. Amoura
+72438,124008,0,1,15,17909,VfB Stuttgart,Jamie Leweling
+72438,124012,1,1,31,8545,Holstein Kiel,Steven Skrzybski
+72438,124014,2,1,46,19018,Holstein Kiel,Steven Skrzybski
+72438,124016,2,2,55,23294,VfB Stuttgart,Ermedin Demirovic
+72433,124043,1,0,13,15926,Eintracht Frankfurt,Batshuayi
+72433,124044,1,1,62,20233,1. FC Union Berlin,Leopold Querfeld
+72433,124045,1,2,78,18287,1. FC Union Berlin,Jeong Woo-Yeong
+72434,124047,1,0,34,20156,TSG 1899 Hoffenheim,H. Tabakovic
+72434,124054,1,1,65,20084,1. FC Heidenheim 1846,B. Zivzivadze
+72447,124178,1,0,51,23324,FC St. Pauli,Noah Weißhaupt
+72442,124192,0,1,7,16907,Borussia Mönchengladbach,Alassane Plea
+72442,124208,0,2,28,16907,Borussia Mönchengladbach,Alassane Plea
+72442,124210,1,2,39,22770,Werder Bremen,Romano Schmid
+72442,124211,2,2,46,19205,Werder Bremen,André Silva
+72442,124212,2,3,47,16907,Borussia Mönchengladbach,Alassane Plea
+72442,124218,2,4,81,17785,Borussia Mönchengladbach,Tim Kleindienst
+72443,124213,1,0,53,20075,FC Augsburg,Phillip Tietz
+72444,124209,1,0,34,22968,1. FSV Mainz 05,Jonathan Burkardt
+72444,124214,1,1,58,14578,SC Freiburg,Michael Gregoritsch
+72444,124216,2,1,74,20086,1. FSV Mainz 05,A. Hanche-Olsen
+72444,124217,2,2,79,19309,SC Freiburg,L. Kübler
+72445,124215,0,1,75,17087,FC Bayern München,Leroy Sané
+72445,124219,1,1,83,19536,1. FC Union Berlin,Benedict Hollerbach
+72440,124220,1,0,18,22867,RB Leipzig,Xavi Simons
+72440,124221,2,0,48,20224,RB Leipzig,L. Openda
+72446,124238,0,1,27,23328,Eintracht Frankfurt,R. Kristensen
+72446,124254,0,2,32,23303,Eintracht Frankfurt,J. Bahoya
+72446,124256,1,2,73,18387,VfL Bochum,G. Holtmann
+72446,124258,1,3,96,15931,Eintracht Frankfurt,Michy Batshuayi
+72441,124257,1,0,33,20077,1. FC Heidenheim 1846,Marvin Pieringer
+72441,124259,2,0,47,20084,1. FC Heidenheim 1846,B. Zivzivadze
+72441,124261,2,1,87,19870,Holstein Kiel,Phil Harres
+72441,124262,3,1,93,18992,1. FC Heidenheim 1846,S. Conteh
+72439,124263,1,0,15,23217,VfB Stuttgart,Ermedin Demirovic
+72439,124264,2,0,48,22473,VfB Stuttgart,N. Woltemade
+72439,124265,2,1,56,19129,Bayer Leverkusen,J. Frimpong
+72439,124266,3,1,62,14289,VfB Stuttgart,Granit Xhaka
+72439,124267,3,2,68,19186,Bayer Leverkusen,P. Hincapie
+72439,124268,3,3,88,20022,Bayer Leverkusen,A. Stiller
+72439,124269,3,4,94,18331,Bayer Leverkusen,Patrik Schick
+72448,124373,1,0,20,20419,Bayer Leverkusen,Aleix Garcia
+72448,124374,1,1,26,18099,VfL Bochum,Passlack
+72448,124375,2,1,60,20197,Bayer Leverkusen,V. Boniface
+72448,124377,3,1,87,19155,Bayer Leverkusen,A. Adli
+72449,124386,1,0,17,18898,FC Bayern München,H. Kane
+72449,124388,1,1,27,20050,FC St. Pauli,E. Saad
+72449,124390,2,1,53,17087,FC Bayern München,Leroy Sané
+72449,124394,3,1,71,17087,FC Bayern München,Leroy Sané
+72449,124396,3,2,95,20340,FC St. Pauli,L. Ritzka
+72452,124389,0,1,46,22921,FC Augsburg,S. Essende
+72452,124393,1,1,71,16104,TSG 1899 Hoffenheim,Andrej Kramaric
+72454,124385,0,1,16,20077,1. FC Heidenheim 1846,Marvin Pieringer
+72455,124391,1,0,56,16907,Borussia Mönchengladbach,Alassane Plea
+72456,124387,0,1,25,11228,Werder Bremen,Marvin Ducksch
+72456,124392,0,2,59,18477,Werder Bremen,F. Agu
+72456,124395,0,3,93,20688,Werder Bremen,Marco Grüll
+72451,124405,1,0,71,23342,Eintracht Frankfurt,Mario Götze
+72453,124426,1,0,29,18643,SC Freiburg,L. Höler
+72453,124427,1,1,30,20089,1. FC Union Berlin,Rani Khedira
+72453,124428,1,2,48,23343,1. FC Union Berlin,Andrej Ilic
+72450,124429,1,0,39,19132,Borussia Dortmund,M. Beier
+72450,124430,2,0,42,17933,Borussia Dortmund,Emre Can
+72450,124431,3,0,72,19132,Borussia Dortmund,M. Beier
+72450,124432,3,1,76,19469,1. FSV Mainz 05,P. Nebel
+72461,124448,1,0,30,23344,FC Augsburg,Dimitrios Giannoulis
+72461,124449,1,1,42,20094,FC Bayern München,Jamal Musiala
+72461,124461,1,2,60,18898,FC Bayern München,H. Kane
+72461,124462,1,3,93,17087,FC Bayern München,Leroy Sané
+72457,124469,0,1,11,23149,TSG 1899 Hoffenheim,T. Bischof
+72457,124471,1,1,24,20288,RB Leipzig,B. Sesko
+72457,124475,2,1,43,18516,RB Leipzig,R. Baku
+72457,124481,3,1,84,18351,RB Leipzig,Y. Poulsen
+72458,124484,0,1,91,23346,Bayer Leverkusen,Emiliano Buendia
+72460,124474,0,1,34,19423,Borussia Dortmund,K. Adeyemi
+72460,124477,0,2,52,23345,Borussia Dortmund,Carney Chukwuemeka
+72460,124478,0,3,68,19545,Borussia Dortmund,S. Guirassy
+72460,124480,0,4,78,22952,Borussia Dortmund,J. Bynoe-Gittens
+72460,124483,1,4,88,18226,SC Freiburg,Maximilian Eggestein
+72462,124473,0,1,34,21361,Holstein Kiel,A. Bernhardsson
+72462,124479,1,1,75,19847,1. FSV Mainz 05,N. Weiper
+72464,124468,0,1,8,20218,VfB Stuttgart,Jeff Chabot
+72464,124470,0,2,11,17844,VfB Stuttgart,Ermedin Demirovic
+72464,124476,0,3,48,17844,VfB Stuttgart,Ermedin Demirovic
+72464,124482,0,4,85,17844,VfB Stuttgart,Ermedin Demirovic
+72459,124485,1,0,28,16124,Werder Bremen,Oliver Burke
+72459,124486,2,0,84,22770,Werder Bremen,Romano Schmid
+72465,124525,0,1,45,19286,Borussia Mönchengladbach,K. Itakura
+72465,124526,1,1,85,20016,FC St. Pauli,O. Afolayan
+72463,124527,1,0,63,19536,1. FC Union Berlin,Benedict Hollerbach
+72471,127057,0,1,11,20224,RB Leipzig,L. Openda
+72471,127058,0,2,26,22867,RB Leipzig,Xavi Simons
+72471,127060,0,3,49,22867,RB Leipzig,Xavi Simons
+72471,127061,1,3,58,23361,VfL Wolfsburg,Kilian Fischer
+72471,127062,2,3,75,23362,VfL Wolfsburg,Andreas Skov Olsen
+72470,127078,1,0,4,18327,TSG 1899 Hoffenheim,A. Kramaric
+72470,127084,2,0,32,18327,TSG 1899 Hoffenheim,A. Kramaric
+72472,127079,1,0,14,18715,Borussia Mönchengladbach,C. Günter
+72472,127082,1,1,16,20907,SC Freiburg,P. Osterhage
+72472,127089,1,2,90,21364,SC Freiburg,J. Manzambi
+72473,127080,0,1,16,22921,FC Augsburg,S. Essende
+72473,127086,1,1,60,17664,VfL Bochum,P. Hofmann
+72473,127088,1,2,90,23242,FC Augsburg,Mert Kömür
+72474,127083,1,0,21,21361,Holstein Kiel,A. Bernhardsson
+72474,127085,1,1,34,20989,FC St. Pauli,D. Sinani
+72474,127087,1,2,90,23000,FC St. Pauli,M. Geschwill
+72468,127090,0,1,48,19132,Borussia Dortmund,M. Beier
+72468,127091,1,1,65,16099,FC Bayern München,Raphael Guerreiro
+72468,127092,2,1,69,16086,FC Bayern München,Serge Gnabry
+72468,127093,2,2,75,16929,Borussia Dortmund,Waldemar Anton
+72467,127120,1,0,19,22472,VfB Stuttgart,L.Stergiou
+72467,127121,1,1,32,16124,Werder Bremen,Oliver Burke
+72467,127122,1,2,90,16124,Werder Bremen,Oliver Burke
+72469,127123,1,0,10,23303,Eintracht Frankfurt,J. Bahoya
+72469,127124,2,0,42,23363,Eintracht Frankfurt,Robin Koch
+72469,127125,3,0,71,21390,Eintracht Frankfurt,Hugo Ekitike
+72475,127262,0,1,44,22971,Holstein Kiel,Shuto Machino
+72475,127268,1,1,74,20288,RB Leipzig,B. Sesko
+72477,127253,0,1,13,18898,FC Bayern München,H. Kane
+72477,127254,0,2,19,20090,FC Bayern München,Konrad Laimer
+72477,127259,0,3,36,15425,FC Bayern München,Kingsley Coman
+72477,127266,0,4,56,15977,FC Bayern München,Joshua Kimmich
+72478,127269,1,0,80,16087,Werder Bremen,Mitchell Weiser
+72479,127257,1,0,28,18643,SC Freiburg,L. Höler
+72479,127258,2,0,36,23001,SC Freiburg,Ritsu Doan
+72479,127263,2,1,47,17453,TSG 1899 Hoffenheim,Marius Bülter
+72479,127264,2,2,50,16104,TSG 1899 Hoffenheim,Andrej Kramaric
+72479,127267,3,2,57,18643,SC Freiburg,L. Höler
+72481,127252,0,1,3,16180,VfL Wolfsburg,Maximilian Arnold
+72481,127260,1,1,37,17731,1. FSV Mainz 05,Jae-Sung Lee
+72481,127261,2,1,40,18674,1. FSV Mainz 05,D. Kohr
+72481,127270,2,2,89,23163,VfL Wolfsburg,D. Vavro
+72482,127271,1,0,5,23343,1. FC Union Berlin,Andrej Ilic
+72482,127272,2,0,19,20206,1. FC Union Berlin,D. Leite
+72482,127273,2,1,23,20979,VfB Stuttgart,D. Undav
+72482,127274,2,2,29,20034,VfB Stuttgart,E. Millot
+72482,127275,3,2,38,20233,1. FC Union Berlin,Leopold Querfeld
+72482,127277,3,3,43,20218,VfB Stuttgart,Jeff Chabot
+72482,127278,3,4,46,18304,VfB Stuttgart,C. Führich
+72482,127279,4,4,51,23343,1. FC Union Berlin,Andrej Ilic
+72476,127310,0,1,24,19201,Borussia Mönchengladbach,Ko Itakura
+72476,127313,1,1,41,19545,Borussia Dortmund,S. Guirassy
+72476,127314,2,1,44,19605,Borussia Dortmund,F. Nmecha
+72476,127315,3,1,50,23377,Borussia Dortmund,Daniel Svensson
+72476,127316,3,2,56,18602,Borussia Mönchengladbach,K. Stöger
+72483,127317,0,1,32,22743,Bayer Leverkusen,Patrik Schick
+72483,127318,1,1,78,18959,FC St. Pauli,C. Boukhalfa
+72485,127379,0,0,0,0,1. FC Heidenheim 1846,
+72485,127380,0,1,89,18604,1. FC Heidenheim 1846,M. Honsak
+72484,127357,1,0,13,22743,Bayer Leverkusen,Patrik Schick
+72484,127378,2,0,46,23387,Bayer Leverkusen,Emiliano Buendía
+72486,127362,1,0,27,17087,FC Bayern München,Leroy Sané
+72486,127377,2,0,40,22945,FC Bayern München,Michael Olise
+72486,127391,3,0,84,15810,FC Bayern München,Eric Dier
+72488,127359,0,1,20,19545,Borussia Dortmund,S. Guirassy
+72488,127387,1,1,61,23389,TSG 1899 Hoffenheim,Adam Hložek
+72488,127390,1,2,74,15031,Borussia Dortmund,Julian Brandt
+72488,127394,2,2,91,23391,TSG 1899 Hoffenheim,Pavel Kaderábek
+72488,127395,2,3,95,16929,Borussia Dortmund,Waldemar Anton
+72490,127386,0,0,0,0,SC Freiburg,
+72490,127385,0,1,49,23388,SC Freiburg,Max Rosenfelder
+72492,127358,1,0,15,22971,Holstein Kiel,Shuto Machino
+72492,127360,2,0,23,21361,Holstein Kiel,A. Bernhardsson
+72492,127383,2,1,60,17829,Borussia Mönchengladbach,Robin Hack
+72492,127388,2,2,69,23144,Borussia Mönchengladbach,Alassane Plea
+72492,127389,3,2,76,23390,Holstein Kiel,Armin Gigovic
+72492,127392,3,3,86,20147,Borussia Mönchengladbach,F. Honorat
+72492,127393,4,3,92,22971,Holstein Kiel,Shuto Machino
+72487,127402,1,0,21,18704,Eintracht Frankfurt,A. Knauff
+72487,127403,2,0,53,18704,Eintracht Frankfurt,A. Knauff
+72487,127404,3,0,67,23168,Eintracht Frankfurt,Hugo Ekitiké
+72487,127405,4,0,72,23363,Eintracht Frankfurt,Robin Koch
+72491,127420,1,1,0,0,VfL Bochum,
+72491,127419,0,1,17,19536,1. FC Union Berlin,Benedict Hollerbach

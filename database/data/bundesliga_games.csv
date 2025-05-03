@@ -1,0 +1,280 @@
+match_id,matchday,matchDateTime,home_team,away_team,home_goals,away_goals
+72214,1,2024-08-23T20:30:00,Borussia Mönchengladbach,Bayer Leverkusen,2,3
+72215,1,2024-08-24T15:30:00,RB Leipzig,VfL Bochum,1,0
+72217,1,2024-08-24T15:30:00,TSG 1899 Hoffenheim,Holstein Kiel,3,2
+72218,1,2024-08-24T15:30:00,SC Freiburg,VfB Stuttgart,3,1
+72219,1,2024-08-24T15:30:00,FC Augsburg,Werder Bremen,2,2
+72221,1,2024-08-24T15:30:00,1. FSV Mainz 05,1. FC Union Berlin,1,1
+72216,1,2024-08-24T18:30:00,Borussia Dortmund,Eintracht Frankfurt,2,0
+72220,1,2024-08-25T15:30:00,VfL Wolfsburg,FC Bayern München,2,3
+72222,1,2024-08-25T17:30:00,FC St. Pauli,1. FC Heidenheim 1846,0,2
+72229,2,2024-08-30T20:30:00,1. FC Union Berlin,FC St. Pauli,1,0
+72224,2,2024-08-31T15:30:00,VfB Stuttgart,1. FSV Mainz 05,3,3
+72226,2,2024-08-31T15:30:00,Eintracht Frankfurt,TSG 1899 Hoffenheim,3,1
+72228,2,2024-08-31T15:30:00,Werder Bremen,Borussia Dortmund,0,0
+72230,2,2024-08-31T15:30:00,VfL Bochum,Borussia Mönchengladbach,0,2
+72231,2,2024-08-31T15:30:00,Holstein Kiel,VfL Wolfsburg,0,2
+72223,2,2024-08-31T18:30:00,Bayer Leverkusen,RB Leipzig,2,3
+72227,2,2024-09-01T15:30:00,1. FC Heidenheim 1846,FC Augsburg,4,0
+72225,2,2024-09-01T17:30:00,FC Bayern München,SC Freiburg,2,0
+72233,3,2024-09-13T20:30:00,Borussia Dortmund,1. FC Heidenheim 1846,4,2
+72232,3,2024-09-14T15:30:00,RB Leipzig,1. FC Union Berlin,0,0
+72234,3,2024-09-14T15:30:00,TSG 1899 Hoffenheim,Bayer Leverkusen,1,4
+72235,3,2024-09-14T15:30:00,SC Freiburg,VfL Bochum,2,1
+72237,3,2024-09-14T15:30:00,VfL Wolfsburg,Eintracht Frankfurt,1,2
+72239,3,2024-09-14T15:30:00,Borussia Mönchengladbach,VfB Stuttgart,1,3
+72240,3,2024-09-14T18:30:00,Holstein Kiel,FC Bayern München,1,6
+72236,3,2024-09-15T15:30:00,FC Augsburg,FC St. Pauli,3,1
+72238,3,2024-09-15T17:30:00,1. FSV Mainz 05,Werder Bremen,1,2
+72246,4,2024-09-20T20:30:00,FC Augsburg,1. FSV Mainz 05,2,3
+72244,4,2024-09-21T15:30:00,1. FC Heidenheim 1846,SC Freiburg,0,3
+72245,4,2024-09-21T15:30:00,Werder Bremen,FC Bayern München,0,5
+72247,4,2024-09-21T15:30:00,1. FC Union Berlin,TSG 1899 Hoffenheim,2,1
+72248,4,2024-09-21T15:30:00,VfL Bochum,Holstein Kiel,2,2
+72243,4,2024-09-21T18:30:00,Eintracht Frankfurt,Borussia Mönchengladbach,2,0
+72241,4,2024-09-22T15:30:00,Bayer Leverkusen,VfL Wolfsburg,4,3
+72242,4,2024-09-22T17:30:00,VfB Stuttgart,Borussia Dortmund,5,1
+72249,4,2024-09-22T19:30:00,FC St. Pauli,RB Leipzig,0,0
+72252,5,2024-09-27T20:30:00,Borussia Dortmund,VfL Bochum,4,2
+72251,5,2024-09-28T15:30:00,RB Leipzig,FC Augsburg,4,0
+72254,5,2024-09-28T15:30:00,SC Freiburg,FC St. Pauli,0,3
+72255,5,2024-09-28T15:30:00,VfL Wolfsburg,VfB Stuttgart,2,2
+72256,5,2024-09-28T15:30:00,1. FSV Mainz 05,1. FC Heidenheim 1846,0,2
+72257,5,2024-09-28T15:30:00,Borussia Mönchengladbach,1. FC Union Berlin,1,0
+72250,5,2024-09-28T18:30:00,FC Bayern München,Bayer Leverkusen,1,1
+72258,5,2024-09-29T15:30:00,Holstein Kiel,Eintracht Frankfurt,2,4
+72253,5,2024-09-29T17:30:00,TSG 1899 Hoffenheim,Werder Bremen,3,4
+72264,6,2024-10-04T20:30:00,FC Augsburg,Borussia Mönchengladbach,2,1
+72259,6,2024-10-05T15:30:00,Bayer Leverkusen,Holstein Kiel,2,2
+72263,6,2024-10-05T15:30:00,Werder Bremen,SC Freiburg,0,1
+72265,6,2024-10-05T15:30:00,1. FC Union Berlin,Borussia Dortmund,2,1
+72266,6,2024-10-05T15:30:00,VfL Bochum,VfL Wolfsburg,1,3
+72267,6,2024-10-05T18:30:00,FC St. Pauli,1. FSV Mainz 05,0,3
+72262,6,2024-10-06T15:30:00,1. FC Heidenheim 1846,RB Leipzig,0,1
+72261,6,2024-10-06T17:30:00,Eintracht Frankfurt,FC Bayern München,3,3
+72260,6,2024-10-06T19:30:00,VfB Stuttgart,TSG 1899 Hoffenheim,1,1
+72270,7,2024-10-18T20:30:00,Borussia Dortmund,FC St. Pauli,2,1
+72268,7,2024-10-19T15:30:00,Bayer Leverkusen,Eintracht Frankfurt,2,1
+72271,7,2024-10-19T15:30:00,TSG 1899 Hoffenheim,VfL Bochum,3,1
+72272,7,2024-10-19T15:30:00,SC Freiburg,FC Augsburg,3,1
+72274,7,2024-10-19T15:30:00,1. FSV Mainz 05,RB Leipzig,0,2
+72275,7,2024-10-19T15:30:00,Borussia Mönchengladbach,1. FC Heidenheim 1846,3,2
+72269,7,2024-10-19T18:30:00,FC Bayern München,VfB Stuttgart,4,0
+72276,7,2024-10-20T15:30:00,Holstein Kiel,1. FC Union Berlin,0,2
+72273,7,2024-10-20T17:30:00,VfL Wolfsburg,Werder Bremen,2,4
+72282,8,2024-10-25T20:30:00,1. FSV Mainz 05,Borussia Mönchengladbach,1,1
+72277,8,2024-10-26T15:30:00,VfB Stuttgart,Holstein Kiel,2,1
+72278,8,2024-10-26T15:30:00,RB Leipzig,SC Freiburg,3,1
+72281,8,2024-10-26T15:30:00,FC Augsburg,Borussia Dortmund,2,1
+72285,8,2024-10-26T15:30:00,FC St. Pauli,VfL Wolfsburg,0,0
+72280,8,2024-10-26T18:30:00,Werder Bremen,Bayer Leverkusen,2,2
+72284,8,2024-10-27T15:30:00,VfL Bochum,FC Bayern München,0,5
+72283,8,2024-10-27T17:30:00,1. FC Union Berlin,Eintracht Frankfurt,1,1
+72279,8,2024-10-27T19:30:00,1. FC Heidenheim 1846,TSG 1899 Hoffenheim,0,0
+72286,9,2024-11-01T20:30:00,Bayer Leverkusen,VfB Stuttgart,0,0
+72287,9,2024-11-02T15:30:00,FC Bayern München,1. FC Union Berlin,3,0
+72289,9,2024-11-02T15:30:00,Eintracht Frankfurt,VfL Bochum,7,2
+72290,9,2024-11-02T15:30:00,TSG 1899 Hoffenheim,FC St. Pauli,0,2
+72292,9,2024-11-02T15:30:00,VfL Wolfsburg,FC Augsburg,1,1
+72294,9,2024-11-02T15:30:00,Holstein Kiel,1. FC Heidenheim 1846,1,0
+72288,9,2024-11-02T18:30:00,Borussia Dortmund,RB Leipzig,2,1
+72291,9,2024-11-03T15:30:00,SC Freiburg,1. FSV Mainz 05,0,0
+72293,9,2024-11-03T17:30:00,Borussia Mönchengladbach,Werder Bremen,4,1
+72301,10,2024-11-08T20:30:00,1. FC Union Berlin,SC Freiburg,0,0
+72298,10,2024-11-09T15:30:00,Werder Bremen,Holstein Kiel,2,1
+72300,10,2024-11-09T15:30:00,1. FSV Mainz 05,Borussia Dortmund,3,1
+72302,10,2024-11-09T15:30:00,VfL Bochum,Bayer Leverkusen,1,1
+72303,10,2024-11-09T15:30:00,FC St. Pauli,FC Bayern München,0,1
+72296,10,2024-11-09T18:30:00,RB Leipzig,Borussia Mönchengladbach,0,0
+72299,10,2024-11-10T15:30:00,FC Augsburg,TSG 1899 Hoffenheim,0,0
+72295,10,2024-11-10T17:30:00,VfB Stuttgart,Eintracht Frankfurt,2,3
+72297,10,2024-11-10T19:30:00,1. FC Heidenheim 1846,VfL Wolfsburg,1,3
+72306,11,2024-11-22T20:30:00,FC Bayern München,FC Augsburg,3,0
+72304,11,2024-11-23T15:30:00,Bayer Leverkusen,1. FC Heidenheim 1846,5,2
+72305,11,2024-11-23T15:30:00,VfB Stuttgart,VfL Bochum,2,0
+72307,11,2024-11-23T15:30:00,Borussia Dortmund,SC Freiburg,4,0
+72309,11,2024-11-23T15:30:00,TSG 1899 Hoffenheim,RB Leipzig,4,3
+72310,11,2024-11-23T15:30:00,VfL Wolfsburg,1. FC Union Berlin,1,0
+72308,11,2024-11-23T18:30:00,Eintracht Frankfurt,Werder Bremen,1,0
+72312,11,2024-11-24T15:30:00,Holstein Kiel,1. FSV Mainz 05,0,3
+72311,11,2024-11-24T17:30:00,Borussia Mönchengladbach,FC St. Pauli,2,0
+72321,12,2024-11-29T20:30:00,FC St. Pauli,Holstein Kiel,3,1
+72313,12,2024-11-30T15:30:00,RB Leipzig,VfL Wolfsburg,1,5
+72316,12,2024-11-30T15:30:00,Werder Bremen,VfB Stuttgart,2,2
+72317,12,2024-11-30T15:30:00,SC Freiburg,Borussia Mönchengladbach,3,1
+72318,12,2024-11-30T15:30:00,FC Augsburg,VfL Bochum,1,0
+72320,12,2024-11-30T15:30:00,1. FC Union Berlin,Bayer Leverkusen,1,2
+72314,12,2024-11-30T18:30:00,Borussia Dortmund,FC Bayern München,1,1
+72319,12,2024-12-01T15:30:00,1. FSV Mainz 05,TSG 1899 Hoffenheim,2,0
+72315,12,2024-12-01T17:30:00,1. FC Heidenheim 1846,Eintracht Frankfurt,0,4
+72323,13,2024-12-06T20:30:00,VfB Stuttgart,1. FC Union Berlin,3,2
+72322,13,2024-12-07T15:30:00,Bayer Leverkusen,FC St. Pauli,2,1
+72324,13,2024-12-07T15:30:00,FC Bayern München,1. FC Heidenheim 1846,4,2
+72325,13,2024-12-07T15:30:00,Eintracht Frankfurt,FC Augsburg,2,2
+72329,13,2024-12-07T15:30:00,VfL Bochum,Werder Bremen,0,1
+72330,13,2024-12-07T15:30:00,Holstein Kiel,RB Leipzig,0,2
+72328,13,2024-12-07T18:30:00,Borussia Mönchengladbach,Borussia Dortmund,1,1
+72327,13,2024-12-08T15:30:00,VfL Wolfsburg,1. FSV Mainz 05,4,3
+72326,13,2024-12-08T17:30:00,TSG 1899 Hoffenheim,SC Freiburg,1,1
+72334,14,2024-12-13T20:30:00,SC Freiburg,VfL Wolfsburg,3,2
+72335,14,2024-12-14T15:30:00,FC Augsburg,Bayer Leverkusen,0,2
+72336,14,2024-12-14T15:30:00,1. FSV Mainz 05,FC Bayern München,2,1
+72337,14,2024-12-14T15:30:00,Borussia Mönchengladbach,Holstein Kiel,4,1
+72338,14,2024-12-14T15:30:00,1. FC Union Berlin,VfL Bochum,0,2
+72339,14,2024-12-14T18:30:00,FC St. Pauli,Werder Bremen,0,2
+72333,14,2024-12-15T15:30:00,1. FC Heidenheim 1846,VfB Stuttgart,1,3
+72332,14,2024-12-15T17:30:00,Borussia Dortmund,TSG 1899 Hoffenheim,1,1
+72331,14,2024-12-15T19:30:00,RB Leipzig,Eintracht Frankfurt,2,1
+72342,15,2024-12-20T20:30:00,FC Bayern München,RB Leipzig,5,1
+72341,15,2024-12-21T15:30:00,VfB Stuttgart,FC St. Pauli,0,1
+72343,15,2024-12-21T15:30:00,Eintracht Frankfurt,1. FSV Mainz 05,1,3
+72344,15,2024-12-21T15:30:00,TSG 1899 Hoffenheim,Borussia Mönchengladbach,1,2
+72345,15,2024-12-21T15:30:00,Werder Bremen,1. FC Union Berlin,4,1
+72348,15,2024-12-21T15:30:00,Holstein Kiel,FC Augsburg,5,1
+72340,15,2024-12-21T18:30:00,Bayer Leverkusen,SC Freiburg,5,1
+72347,15,2024-12-22T15:30:00,VfL Bochum,1. FC Heidenheim 1846,2,0
+72346,15,2024-12-22T17:30:00,VfL Wolfsburg,Borussia Dortmund,1,3
+72350,16,2025-01-10T20:30:00,Borussia Dortmund,Bayer Leverkusen,2,3
+72351,16,2025-01-11T15:30:00,TSG 1899 Hoffenheim,VfL Wolfsburg,0,1
+72352,16,2025-01-11T15:30:00,1. FC Heidenheim 1846,1. FC Union Berlin,2,0
+72353,16,2025-01-11T15:30:00,SC Freiburg,Holstein Kiel,3,2
+72355,16,2025-01-11T15:30:00,1. FSV Mainz 05,VfL Bochum,2,0
+72357,16,2025-01-11T15:30:00,FC St. Pauli,Eintracht Frankfurt,0,1
+72356,16,2025-01-11T18:30:00,Borussia Mönchengladbach,FC Bayern München,0,1
+72349,16,2025-01-12T15:30:00,RB Leipzig,Werder Bremen,4,2
+72354,16,2025-01-12T17:30:00,FC Augsburg,VfB Stuttgart,0,1
+72366,17,2025-01-14T18:30:00,Holstein Kiel,Borussia Dortmund,4,2
+72358,17,2025-01-14T20:30:00,Bayer Leverkusen,1. FSV Mainz 05,1,0
+72361,17,2025-01-14T20:30:00,Eintracht Frankfurt,SC Freiburg,4,1
+72363,17,2025-01-14T20:30:00,VfL Wolfsburg,Borussia Mönchengladbach,5,1
+72365,17,2025-01-15T18:30:00,VfL Bochum,FC St. Pauli,1,0
+72359,17,2025-01-15T20:30:00,VfB Stuttgart,RB Leipzig,2,1
+72360,17,2025-01-15T20:30:00,FC Bayern München,TSG 1899 Hoffenheim,5,0
+72362,17,2025-01-15T20:30:00,Werder Bremen,1. FC Heidenheim 1846,3,3
+72364,17,2025-01-15T20:30:00,1. FC Union Berlin,FC Augsburg,0,2
+72370,18,2025-01-17T20:30:00,Eintracht Frankfurt,Borussia Dortmund,2,0
+72368,18,2025-01-18T15:30:00,VfB Stuttgart,SC Freiburg,4,0
+72369,18,2025-01-18T15:30:00,FC Bayern München,VfL Wolfsburg,3,2
+72371,18,2025-01-18T15:30:00,1. FC Heidenheim 1846,FC St. Pauli,0,2
+72374,18,2025-01-18T15:30:00,VfL Bochum,RB Leipzig,3,3
+72375,18,2025-01-18T15:30:00,Holstein Kiel,TSG 1899 Hoffenheim,1,3
+72367,18,2025-01-18T18:30:00,Bayer Leverkusen,Borussia Mönchengladbach,3,1
+72373,18,2025-01-19T15:30:00,1. FC Union Berlin,1. FSV Mainz 05,2,1
+72372,18,2025-01-19T17:30:00,Werder Bremen,FC Augsburg,0,2
+72381,19,2025-01-24T20:30:00,VfL Wolfsburg,Holstein Kiel,2,2
+72376,19,2025-01-25T15:30:00,RB Leipzig,Bayer Leverkusen,2,2
+72377,19,2025-01-25T15:30:00,Borussia Dortmund,Werder Bremen,2,2
+72379,19,2025-01-25T15:30:00,SC Freiburg,FC Bayern München,1,2
+72380,19,2025-01-25T15:30:00,FC Augsburg,1. FC Heidenheim 1846,2,1
+72382,19,2025-01-25T15:30:00,1. FSV Mainz 05,VfB Stuttgart,2,0
+72383,19,2025-01-25T18:30:00,Borussia Mönchengladbach,VfL Bochum,3,0
+72378,19,2025-01-26T15:30:00,TSG 1899 Hoffenheim,Eintracht Frankfurt,2,2
+72384,19,2025-01-26T17:30:00,FC St. Pauli,1. FC Union Berlin,3,0
+72390,20,2025-01-31T20:30:00,Werder Bremen,1. FSV Mainz 05,1,0
+72386,20,2025-02-01T15:30:00,VfB Stuttgart,Borussia Mönchengladbach,1,2
+72387,20,2025-02-01T15:30:00,FC Bayern München,Holstein Kiel,4,3
+72389,20,2025-02-01T15:30:00,1. FC Heidenheim 1846,Borussia Dortmund,1,2
+72392,20,2025-02-01T15:30:00,VfL Bochum,SC Freiburg,0,1
+72393,20,2025-02-01T15:30:00,FC St. Pauli,FC Augsburg,1,1
+72391,20,2025-02-01T18:30:00,1. FC Union Berlin,RB Leipzig,0,0
+72388,20,2025-02-02T15:30:00,Eintracht Frankfurt,VfL Wolfsburg,1,1
+72385,20,2025-02-02T17:30:00,Bayer Leverkusen,TSG 1899 Hoffenheim,3,1
+72394,21,2025-02-07T20:30:00,FC Bayern München,Werder Bremen,3,0
+72396,21,2025-02-08T15:30:00,Borussia Dortmund,VfB Stuttgart,1,2
+72397,21,2025-02-08T15:30:00,TSG 1899 Hoffenheim,1. FC Union Berlin,0,4
+72398,21,2025-02-08T15:30:00,SC Freiburg,1. FC Heidenheim 1846,1,0
+72399,21,2025-02-08T15:30:00,VfL Wolfsburg,Bayer Leverkusen,0,0
+72400,21,2025-02-08T15:30:00,1. FSV Mainz 05,FC Augsburg,0,0
+72401,21,2025-02-08T18:30:00,Borussia Mönchengladbach,Eintracht Frankfurt,1,1
+72402,21,2025-02-09T15:30:00,Holstein Kiel,VfL Bochum,2,2
+72395,21,2025-02-09T17:30:00,RB Leipzig,FC St. Pauli,2,0
+72408,22,2025-02-14T20:30:00,FC Augsburg,RB Leipzig,0,0
+72404,22,2025-02-15T15:30:00,VfB Stuttgart,VfL Wolfsburg,1,2
+72409,22,2025-02-15T15:30:00,1. FC Union Berlin,Borussia Mönchengladbach,1,2
+72410,22,2025-02-15T15:30:00,VfL Bochum,Borussia Dortmund,2,0
+72411,22,2025-02-15T15:30:00,FC St. Pauli,SC Freiburg,0,1
+72403,22,2025-02-15T18:30:00,Bayer Leverkusen,FC Bayern München,0,0
+72407,22,2025-02-16T15:30:00,Werder Bremen,TSG 1899 Hoffenheim,1,3
+72405,22,2025-02-16T17:30:00,Eintracht Frankfurt,Holstein Kiel,3,1
+72406,22,2025-02-16T19:30:00,1. FC Heidenheim 1846,1. FSV Mainz 05,0,2
+72416,23,2025-02-21T20:30:00,SC Freiburg,Werder Bremen,5,0
+72417,23,2025-02-22T15:30:00,VfL Wolfsburg,VfL Bochum,1,1
+72418,23,2025-02-22T15:30:00,1. FSV Mainz 05,FC St. Pauli,2,0
+72419,23,2025-02-22T15:30:00,Borussia Mönchengladbach,FC Augsburg,0,3
+72420,23,2025-02-22T15:30:00,Holstein Kiel,Bayer Leverkusen,0,2
+72414,23,2025-02-22T18:30:00,Borussia Dortmund,1. FC Union Berlin,6,0
+72413,23,2025-02-23T15:30:00,RB Leipzig,1. FC Heidenheim 1846,2,2
+72412,23,2025-02-23T17:30:00,FC Bayern München,Eintracht Frankfurt,4,0
+72415,23,2025-02-23T19:30:00,TSG 1899 Hoffenheim,VfB Stuttgart,1,1
+72421,24,2025-02-28T20:30:00,VfB Stuttgart,FC Bayern München,1,3
+72422,24,2025-03-01T15:30:00,RB Leipzig,1. FSV Mainz 05,1,2
+72424,24,2025-03-01T15:30:00,1. FC Heidenheim 1846,Borussia Mönchengladbach,0,3
+72425,24,2025-03-01T15:30:00,Werder Bremen,VfL Wolfsburg,1,2
+72428,24,2025-03-01T15:30:00,VfL Bochum,TSG 1899 Hoffenheim,0,1
+72429,24,2025-03-01T15:30:00,FC St. Pauli,Borussia Dortmund,0,2
+72423,24,2025-03-01T18:30:00,Eintracht Frankfurt,Bayer Leverkusen,1,4
+72427,24,2025-03-02T15:30:00,1. FC Union Berlin,Holstein Kiel,0,1
+72426,24,2025-03-02T17:30:00,FC Augsburg,SC Freiburg,0,0
+72437,25,2025-03-07T20:30:00,Borussia Mönchengladbach,1. FSV Mainz 05,1,3
+72430,25,2025-03-08T15:30:00,Bayer Leverkusen,Werder Bremen,0,2
+72431,25,2025-03-08T15:30:00,FC Bayern München,VfL Bochum,2,3
+72432,25,2025-03-08T15:30:00,Borussia Dortmund,FC Augsburg,0,1
+72436,25,2025-03-08T15:30:00,VfL Wolfsburg,FC St. Pauli,1,1
+72438,25,2025-03-08T15:30:00,Holstein Kiel,VfB Stuttgart,2,2
+72435,25,2025-03-08T18:30:00,SC Freiburg,RB Leipzig,0,0
+72433,25,2025-03-09T15:30:00,Eintracht Frankfurt,1. FC Union Berlin,1,2
+72434,25,2025-03-09T17:30:00,TSG 1899 Hoffenheim,1. FC Heidenheim 1846,1,1
+72447,26,2025-03-14T20:30:00,FC St. Pauli,TSG 1899 Hoffenheim,1,0
+72442,26,2025-03-15T15:30:00,Werder Bremen,Borussia Mönchengladbach,2,4
+72443,26,2025-03-15T15:30:00,FC Augsburg,VfL Wolfsburg,1,0
+72444,26,2025-03-15T15:30:00,1. FSV Mainz 05,SC Freiburg,2,2
+72445,26,2025-03-15T15:30:00,1. FC Union Berlin,FC Bayern München,1,1
+72440,26,2025-03-15T18:30:00,RB Leipzig,Borussia Dortmund,2,0
+72446,26,2025-03-16T15:30:00,VfL Bochum,Eintracht Frankfurt,1,3
+72441,26,2025-03-16T17:30:00,1. FC Heidenheim 1846,Holstein Kiel,3,1
+72439,26,2025-03-16T19:30:00,VfB Stuttgart,Bayer Leverkusen,3,4
+72448,27,2025-03-28T20:30:00,Bayer Leverkusen,VfL Bochum,3,1
+72449,27,2025-03-29T15:30:00,FC Bayern München,FC St. Pauli,3,2
+72452,27,2025-03-29T15:30:00,TSG 1899 Hoffenheim,FC Augsburg,1,1
+72454,27,2025-03-29T15:30:00,VfL Wolfsburg,1. FC Heidenheim 1846,0,1
+72455,27,2025-03-29T15:30:00,Borussia Mönchengladbach,RB Leipzig,1,0
+72456,27,2025-03-29T15:30:00,Holstein Kiel,Werder Bremen,0,3
+72451,27,2025-03-29T18:30:00,Eintracht Frankfurt,VfB Stuttgart,1,0
+72453,27,2025-03-30T15:30:00,SC Freiburg,1. FC Union Berlin,1,2
+72450,27,2025-03-30T17:30:00,Borussia Dortmund,1. FSV Mainz 05,3,1
+72461,28,2025-04-04T20:30:00,FC Augsburg,FC Bayern München,1,3
+72457,28,2025-04-05T15:30:00,RB Leipzig,TSG 1899 Hoffenheim,3,1
+72458,28,2025-04-05T15:30:00,1. FC Heidenheim 1846,Bayer Leverkusen,0,1
+72460,28,2025-04-05T15:30:00,SC Freiburg,Borussia Dortmund,1,4
+72462,28,2025-04-05T15:30:00,1. FSV Mainz 05,Holstein Kiel,1,1
+72464,28,2025-04-05T15:30:00,VfL Bochum,VfB Stuttgart,0,4
+72459,28,2025-04-05T18:30:00,Werder Bremen,Eintracht Frankfurt,2,0
+72465,28,2025-04-06T15:30:00,FC St. Pauli,Borussia Mönchengladbach,1,1
+72463,28,2025-04-06T17:30:00,1. FC Union Berlin,VfL Wolfsburg,1,0
+72471,29,2025-04-11T20:30:00,VfL Wolfsburg,RB Leipzig,2,3
+72466,29,2025-04-12T15:30:00,Bayer Leverkusen,1. FC Union Berlin,0,0
+72470,29,2025-04-12T15:30:00,TSG 1899 Hoffenheim,1. FSV Mainz 05,2,0
+72472,29,2025-04-12T15:30:00,Borussia Mönchengladbach,SC Freiburg,1,2
+72473,29,2025-04-12T15:30:00,VfL Bochum,FC Augsburg,1,2
+72474,29,2025-04-12T15:30:00,Holstein Kiel,FC St. Pauli,1,2
+72468,29,2025-04-12T18:30:00,FC Bayern München,Borussia Dortmund,2,2
+72467,29,2025-04-13T15:30:00,VfB Stuttgart,Werder Bremen,1,2
+72469,29,2025-04-13T17:30:00,Eintracht Frankfurt,1. FC Heidenheim 1846,3,0
+72475,30,2025-04-19T15:30:00,RB Leipzig,Holstein Kiel,1,1
+72477,30,2025-04-19T15:30:00,1. FC Heidenheim 1846,FC Bayern München,0,4
+72478,30,2025-04-19T15:30:00,Werder Bremen,VfL Bochum,1,0
+72479,30,2025-04-19T15:30:00,SC Freiburg,TSG 1899 Hoffenheim,3,2
+72481,30,2025-04-19T15:30:00,1. FSV Mainz 05,VfL Wolfsburg,2,2
+72482,30,2025-04-19T18:30:00,1. FC Union Berlin,VfB Stuttgart,4,4
+72480,30,2025-04-20T15:30:00,FC Augsburg,Eintracht Frankfurt,0,0
+72476,30,2025-04-20T17:30:00,Borussia Dortmund,Borussia Mönchengladbach,3,2
+72483,30,2025-04-20T19:30:00,FC St. Pauli,Bayer Leverkusen,1,1
+72485,31,2025-04-25T20:30:00,VfB Stuttgart,1. FC Heidenheim 1846,0,1
+72484,31,2025-04-26T15:30:00,Bayer Leverkusen,FC Augsburg,2,0
+72486,31,2025-04-26T15:30:00,FC Bayern München,1. FSV Mainz 05,3,0
+72488,31,2025-04-26T15:30:00,TSG 1899 Hoffenheim,Borussia Dortmund,2,3
+72490,31,2025-04-26T15:30:00,VfL Wolfsburg,SC Freiburg,0,1
+72492,31,2025-04-26T15:30:00,Holstein Kiel,Borussia Mönchengladbach,4,3
+72487,31,2025-04-26T18:30:00,Eintracht Frankfurt,RB Leipzig,4,0
+72491,31,2025-04-27T15:30:00,VfL Bochum,1. FC Union Berlin,1,1
+72489,31,2025-04-27T17:30:00,Werder Bremen,FC St. Pauli,0,0
