@@ -102,17 +102,12 @@ The database setup must be performed in the following order:
 
 ### Running the Application
 
-1. Set up your OpenAI API key:
-```bash
-export OPENAI_API_KEY='your-api-key'
-```
-
-2. Run the Streamlit app:
+1. Run the Streamlit app:
 ```bash
 streamlit run app.py
 ```
 
-3. Alternatively, run the command-line version:
+2. Alternatively, run the command-line version:
 ```bash
 python main.py
 ```
