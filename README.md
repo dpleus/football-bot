@@ -69,6 +69,16 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+4. Set up environment variables:
+```bash
+# Copy the example environment file
+cp env.example .env
+
+# Edit the .env file with your actual values
+# Required: OPENAI_API_KEY
+# Optional: LANGSMITH_* variables for tracing
+```
+
 ### Database Setup
 
 The database setup must be performed in the following order:
