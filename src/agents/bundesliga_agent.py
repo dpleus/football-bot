@@ -20,7 +20,7 @@ import uuid
 IMAGE_PATH = "images"
 MODEL_NAME = "gpt-4o"
 SEARCH_MODEL = "gpt-4o-search-preview"
-DATABASE_PATH = Path('database') / 'bundesliga.db'
+DATABASE_PATH = Path('database') / 'data' / 'bundesliga.db'
 
 # Initialize components
 load_dotenv()
